@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+# Raw transcripts and media are large / can carry unedited personal content —
+# keep them local, check in only the generated content files.
+episodes/**/*.srt
+episodes/**/*.vtt
+episodes/**/*.txt
+episodes/**/*.mp3
+episodes/**/*.mp4
+!episodes/**/episode_*_content.md
