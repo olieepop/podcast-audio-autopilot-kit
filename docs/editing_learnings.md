@@ -6,12 +6,20 @@ per episode — don't rewrite earlier ones, even if a later episode contradicts 
 Patterns that hold across multiple episodes get promoted into
 `scripts/prep_transcript.py` as real logic instead of just notes here.
 
+The actual tooling for this lives in `src/` — `edit_style_model.py` and
+`rough_cut.py`, ported from [Hao0321/video-autopilot-kit](https://github.com/Hao0321/video-autopilot-kit)
+via Olivia's own fork ([creator-voice-autopilot](https://github.com/olieepop/video-autopilot-kit)).
+This doc is the narrative writeup; `profiles/edit_style_profile.md` (gitignored,
+generated locally by running those scripts) is the authoritative per-pair data —
+see §3 below for exact commands.
+
 ---
 
 ## Ep1 (raw comparison: `ep1_pre.txt` vs `ep1_post.txt`)
 
-**Raw transcript, 3888 cues, ~72 min.** Final cut transcript, 981 cues, ~34 min. Roughly
-**53% of raw runtime got cut.**
+**Raw transcript, 3888 cues, 72.2 min.** Final cut, 191 reconstructed cut ranges
+totaling 36.1 min — **~50% of raw runtime got cut** (character-level diff via
+`rough_cut.py reconstruct`, not a hand count — see §3).
 
 ### 1. The raw transcript arrived broken, not just long
 
@@ -49,11 +57,11 @@ compresses):
 - **End-of-recording technical chatter is cut.** Pre's last exchanges are about closing
   the Riverside browser tab / confirming the recording stopped ("我们browser不能关",
   "你停了吗"). None of that is podcast content and none of it survives.
-- **Mid-episode filler and false starts are trimmed throughout**, not just at the
-  edges — the ~53% overall cut is too large to be explained by the intro/outro alone.
-  Given the raw file's cue density (3888 cues / 72 min ≈ 54 cues/min) vs. the edited
-  file's (981 cues / 34 min ≈ 29 cues/min), the edit isn't just removing whole dead
-  sections, it's tightening pacing across the board.
+- **Mid-episode filler and tangents are trimmed throughout**, not just at the edges —
+  the ~50% overall cut is too large to be explained by the intro/outro alone. The
+  longest single cut is 342s (5.7 min) at the 62-minute mark, a tangent about feeling
+  stuck on direction — see `profiles/edit_style_profile.md`'s "Verified real cuts"
+  section for the full list of 191 cut ranges.
 - Post's very last two cues are out of chronological order (a "拜拜" sign-off at 34:03
   immediately followed by a cue timestamped 19:41). That's consistent with a pickup line
   or alternate take spliced in near the very end of the CapCut edit — worth knowing so a
@@ -66,7 +74,33 @@ compresses):
   transcript of the CapCut export), not the raw Riverside download — the raw one is
   ~2x longer, partly in the wrong language, and includes recording-logistics chatter
   that would leak into auto-generated show notes/chapters if not filtered.
-- Added `scripts/prep_transcript.py` to catch the specific failure mode above before it
-  reaches `script_01`: flag any stretch of cues with near-zero CJK character density in
-  a transcript that's supposed to be Mandarin/English, so a mis-detected-language block
+- `scripts/prep_transcript.py` catches the specific failure mode above before anything
+  downstream runs: flags any stretch of cues with near-zero CJK character density in a
+  transcript that's supposed to be Mandarin/English, so a mis-detected-language block
   gets caught instead of silently producing fluent-looking nonsense.
+- `src/edit_style_model.py select_canonical_blocks` handles the same problem a
+  different way — it auto-detects a language-segmented file and drops the
+  non-dominant-language blocks before diffing, so the Dutch block doesn't corrupt the
+  learned profile. It doesn't warn you it did this, though, which is why
+  `prep_transcript.py` is worth keeping as an explicit check.
+- `src/edit_style_model.py`'s block-level `learn` command undercounts retention badly
+  on ep1 (reports 19.7%, not the real ~50%) because the raw and final transcripts chunk
+  sentences differently — a documented limitation. `src/rough_cut.py reconstruct` (a
+  character-level diff) doesn't have this problem; its output is what's actually
+  trustworthy for the real cut ranges, merged into `edit_style_profile.json`'s
+  `verified_real_cuts_ep1` field so future tangent judgment has ground truth to
+  calibrate against.
+
+### Regenerating this for a new episode
+
+```bash
+python src/edit_style_model.py learn \
+  --pair episodes/ep1/ep1_pre.srt=episodes/ep1/ep1_post.srt \
+  --pair episodes/ep2/ep2_pre.srt=episodes/ep2/ep2_post.srt \
+  --out profiles/edit_style_profile
+python src/rough_cut.py reconstruct \
+  --pre episodes/ep2/ep2_pre.srt --post episodes/ep2/ep2_post.srt \
+  --out profiles/ep2_cuts.json
+```
+Both write to `profiles/`, which is gitignored — this is derived from raw, unedited
+personal speech and stays local, never in the repo.
