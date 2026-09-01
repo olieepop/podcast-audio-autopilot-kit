@@ -104,3 +104,26 @@ python src/rough_cut.py reconstruct \
 ```
 Both write to `profiles/`, which is gitignored — this is derived from raw, unedited
 personal speech and stays local, never in the repo.
+
+### 4. Ep1 is a process outlier, not just a transcript-quality one
+
+Confirmed against Drive (see `docs/outline_location.md`): every episode from ep2
+onward has a pre-recording outline doc (planned topics, timed segments, a stated
+episode purpose). **Ep1 has none.** That's very likely a real contributor to why
+ep1 needed such heavy tangent-cutting — there was no agreed structure keeping the
+raw conversation anchored, so it ran long and wandered further than a scripted
+episode would.
+
+Practical consequence: ep1's biggest single cut (342s, a tangent about feeling
+stuck on direction) is marked `"generalizable": false` in
+`profiles/edit_style_profile.json`'s `verified_real_cuts_ep1` — it's this
+conversation's own judgment call, not a repeatable editing rule, and with no
+outline to check it against there's no way to tell whether it was "off the
+planned topic" (ep1 didn't have one) or just a natural tangent. The smaller,
+structural cuts (opening banter, recording logistics) are kept as generalizable
+patterns; see `profiles/edit_style_profile.md`'s "Recognizable editing patterns"
+section.
+
+Once an outlined episode (ep2+) has a real pre/post transcript pair, its cuts are
+a much better source for calibrating tangent judgment specifically — diff against
+the outline's planned segments, not just "what got cut" in isolation.
