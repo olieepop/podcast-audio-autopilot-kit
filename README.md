@@ -1,4 +1,6 @@
-# YouTube Automation — The Long Way Here
+# Podcast/Audio Autopilot Kit — 含剪輯風格學習
+
+*給 The Long Way Here（Olivia Pan + Nina Tseng）用*
 
 *[English README](README.en.md)*
 
