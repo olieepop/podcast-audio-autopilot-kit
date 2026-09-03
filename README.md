@@ -44,10 +44,10 @@ Riverside 錄音
   -> src/edit_style_model.py learn       （累積你的剪輯風格檔——選用，用來輔助判斷剪點）
   -> src/rough_cut.py reconstruct        （已剪好的集數：算出精確剪點清單——訓練資料）
   -> CapCut 粗剪（手動，照 docs/editing_learnings.md 裡的剪輯模式）
-  -> 雙語翻譯（繁中＋英文），先做成可讀的逐字稿讓人審過，才進到字幕時間軸——
-     見 episodes/ep1/ep1_bilingual_review.md
-  -> src/dual_subtitle.py build --out captions.srt  （核准後的文字 -> 字幕長度的 SRT）
-  -> 把粗剪影片＋captions.srt 一起載入 CapCut，在裡面審／調整字幕
+  -> 雙語翻譯（繁中＋英文）
+  -> src/dual_subtitle.py build --out captions.srt  （翻譯好的文字 -> 字幕長度的 SRT）
+  -> 把粗剪影片＋captions.srt 一起載入 CapCut——直接在裡面審／調整文字跟時間軸，
+     不另外先審一輪（只審一次，不重工）
   -> 從 CapCut 匯出最終影片
      （想跳過 CapCut 審閱、直接用 ffmpeg 把 src/dual_subtitle.py 的 .ass 輸出燒錄進
      影片的話，可以用 src/dual_subtitle.py burn 這個替代路徑）

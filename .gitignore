@@ -15,3 +15,7 @@ episodes/**/*.txt
 episodes/**/*.mp3
 episodes/**/*.mp4
 !episodes/**/episode_*_content.md
+# Captions are the finished, translated, publication-bound article -- not raw
+# personal transcript -- so unlike the raw .srt rule above, these get committed.
+!episodes/**/*_captions.srt
+!episodes/**/*_captions.json

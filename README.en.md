@@ -48,10 +48,10 @@ Riverside recording
   -> src/edit_style_model.py learn       (accumulate your edit-style profile — optional, informs cuts)
   -> src/rough_cut.py reconstruct        (exact cut list, once a real edit exists — training data)
   -> CapCut rough edit (manual, using the trim pattern in docs/editing_learnings.md)
-  -> bilingual translation (Traditional Chinese + English), human-reviewed as a readable
-     script BEFORE it's fit to caption timing — see episodes/ep1/ep1_bilingual_review.md
-  -> src/dual_subtitle.py build --out captions.srt   (approved wording -> caption-length SRT cues)
-  -> load the rough-cut video + captions.srt into CapCut, review/adjust captions there
+  -> bilingual translation (Traditional Chinese + English)
+  -> src/dual_subtitle.py build --out captions.srt   (translated wording -> caption-length SRT cues)
+  -> load the rough-cut video + captions.srt into CapCut — review/adjust wording and
+     timing there directly, no separate review pass first (one review, not two)
   -> export the final video from CapCut
      (src/dual_subtitle.py burn is the alternative for skipping the CapCut-review step
      and hard-burning src/dual_subtitle.py's .ass output directly via ffmpeg)
