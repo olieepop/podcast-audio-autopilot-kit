@@ -8,6 +8,15 @@ freshly cut episode. Times are relative to the ALREADY-CUT video (post-`apply`),
 source -- remap through media_delivery_qa.remap_time first if you're starting from raw-footage
 timestamps.
 
+Two output formats from the same `build` command, picked by your --out extension:
+
+  --out foo.ass   ffmpeg's format, for `burn` (hard-codes captions into the video directly,
+                  no further review step).
+  --out foo.srt   Plain two-line SRT (Traditional Chinese line, English line below), for
+                  importing into CapCut as an editable caption track -- load this alongside
+                  the rough-cut video, review/adjust captions visually inside CapCut itself,
+                  then export the final video from there instead of using `burn`.
+
 Follows this kit's existing ASS convention (src/longform_maker/word_captions.py ASS_HEAD):
 PlayResX/Y 1920x1080, BorderStyle=3 (opaque box, not just an outline), white primary text.
 This module's style differs only in being fully opaque (not the ~30%-alpha box used for
@@ -42,6 +51,17 @@ def _ts(t: float) -> str:
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
+def _ts_srt(t: float) -> str:
+    h = int(t // 3600)
+    m = int((t % 3600) // 60)
+    s = int(t % 60)
+    ms = round((t - int(t)) * 1000)
+    if ms == 1000:  # rounding carry
+        ms = 0
+        s += 1
+    return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+
 def _escape(text: str) -> str:
     return text.replace("{", "(").replace("}", ")")
 
@@ -56,6 +76,20 @@ def build_dual_ass(entries: list[dict[str, Any]], out_path: Path) -> int:
         lines.append(f"Dialogue: 0,{_ts(e['start'])},{_ts(e['end'])},Bilingual,,0,0,0,,{text}")
     out_path.write_text(ASS_HEAD + "\n".join(lines) + "\n", encoding="utf-8")
     return len(lines)
+
+
+def build_dual_srt(entries: list[dict[str, Any]], out_path: Path) -> int:
+    """entries: [{"start", "end", "zh_clean", "en"}, ...] -> writes a plain 2-line SRT
+    (Traditional Chinese line, English line below). No styling -- CapCut applies its own
+    caption-track font/box when you import this, which is the point: you review/adjust the
+    actual wording and timing inside CapCut before it ever gets hard-burned. Returns cue count."""
+    blocks = []
+    for i, e in enumerate(entries, start=1):
+        blocks.append(
+            f"{i}\n{_ts_srt(e['start'])} --> {_ts_srt(e['end'])}\n{e['zh_clean']}\n{e['en']}\n"
+        )
+    out_path.write_text("\n".join(blocks) + "\n", encoding="utf-8")
+    return len(entries)
 
 
 def burn_subtitles(video_in: str, ass_path: str, video_out: str) -> str:
@@ -78,11 +112,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
 
-    b = sub.add_parser("build", help="build an ASS file from a translated captions JSON")
+    b = sub.add_parser(
+        "build",
+        help="build a caption file from a translated captions JSON -- .ass (for `burn`) or .srt (for CapCut import/review), picked by --out's extension",
+    )
     b.add_argument("--captions", required=True, help="JSON array of {start,end,zh_clean,en}")
-    b.add_argument("--out", required=True, help="output .ass path")
+    b.add_argument("--out", required=True, help="output path: foo.ass (burn-ready) or foo.srt (CapCut-ready)")
 
-    r = sub.add_parser("burn", help="burn an ASS file into a video")
+    r = sub.add_parser("burn", help="burn an ASS file into a video (skip this if you're reviewing/exporting in CapCut instead)")
     r.add_argument("--video", required=True)
     r.add_argument("--ass", required=True)
     r.add_argument("--out", required=True)
@@ -90,8 +127,12 @@ def main() -> None:
     args = parser.parse_args()
     if args.command == "build":
         entries = json.loads(Path(args.captions).read_text(encoding="utf-8"))
-        n = build_dual_ass(entries, Path(args.out))
-        print(f"wrote {args.out} ({n} lines)")
+        out_path = Path(args.out)
+        if out_path.suffix.lower() == ".srt":
+            n = build_dual_srt(entries, out_path)
+        else:
+            n = build_dual_ass(entries, out_path)
+        print(f"wrote {out_path} ({n} lines)")
     elif args.command == "burn":
         out = burn_subtitles(args.video, args.ass, args.out)
         print(f"wrote {out}")

@@ -43,8 +43,15 @@ Riverside 錄音
   -> scripts/prep_transcript.py          （抓語言辨識錯誤的段落）
   -> src/edit_style_model.py learn       （累積你的剪輯風格檔——選用，用來輔助判斷剪點）
   -> src/rough_cut.py reconstruct        （已剪好的集數：算出精確剪點清單——訓練資料）
+  -> CapCut 粗剪（手動，照 docs/editing_learnings.md 裡的剪輯模式）
+  -> 雙語翻譯（繁中＋英文），先做成可讀的逐字稿讓人審過，才進到字幕時間軸——
+     見 episodes/ep1/ep1_bilingual_review.md
+  -> src/dual_subtitle.py build --out captions.srt  （核准後的文字 -> 字幕長度的 SRT）
+  -> 把粗剪影片＋captions.srt 一起載入 CapCut，在裡面審／調整字幕
+  -> 從 CapCut 匯出最終影片
+     （想跳過 CapCut 審閱、直接用 ffmpeg 把 src/dual_subtitle.py 的 .ass 輸出燒錄進
+     影片的話，可以用 src/dual_subtitle.py burn 這個替代路徑）
   -> scripts/script_01_text_outputs.py   （標題、show notes、YT 說明、podcast 說明、金句）
-  -> CapCut 剪輯（手動——雙語燒錄字幕用 src/dual_subtitle.py）
   -> scripts/script_02_buzzsprout_upload.py  （podcast 草稿）
   -> scripts/script_03_youtube_prep.py       （YouTube 上傳 checklist）
 ```
@@ -59,7 +66,8 @@ Script 1–3 完全照 Playbook 的規格做。`prep_transcript.py` 存在的原
 - `src/` —— 剪輯風格學習＋字幕工具，搬過來的（見上面的歸功說明）：
   `edit_style_model.py`（從成對的原始／發布逐字稿學出剪掉／留存風格檔）、
   `rough_cut.py`（推算／重建／合併／執行剪點清單）、`dual_subtitle.py`（繁中＋英文
-  雙語燒錄字幕），還有它們依賴的 `delivery_media_ops.py` 與 `media_delivery_qa.py`
+  雙語字幕——`.srt` 給 CapCut 匯入審閱用，`.ass`/`burn` 則是直接用 ffmpeg 燒錄），
+  還有它們依賴的 `delivery_media_ops.py` 與 `media_delivery_qa.py`
 - `templates/` —— 填空式的風格／聲音範本，加上 `edit_style_profile.template.md`
   （怎麼看 `edit_style_model.py` 的輸出）；也是搬過來的
 - `docs/production_playbook.md` —— Drive 上 production playbook 的鏡像，放進 repo

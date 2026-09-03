@@ -47,8 +47,15 @@ Riverside recording
   -> scripts/prep_transcript.py          (flag mis-detected-language blocks)
   -> src/edit_style_model.py learn       (accumulate your edit-style profile — optional, informs cuts)
   -> src/rough_cut.py reconstruct        (exact cut list, once a real edit exists — training data)
+  -> CapCut rough edit (manual, using the trim pattern in docs/editing_learnings.md)
+  -> bilingual translation (Traditional Chinese + English), human-reviewed as a readable
+     script BEFORE it's fit to caption timing — see episodes/ep1/ep1_bilingual_review.md
+  -> src/dual_subtitle.py build --out captions.srt   (approved wording -> caption-length SRT cues)
+  -> load the rough-cut video + captions.srt into CapCut, review/adjust captions there
+  -> export the final video from CapCut
+     (src/dual_subtitle.py burn is the alternative for skipping the CapCut-review step
+     and hard-burning src/dual_subtitle.py's .ass output directly via ffmpeg)
   -> scripts/script_01_text_outputs.py   (titles, show notes, YT desc, podcast desc, quotes)
-  -> CapCut edit (manual — src/dual_subtitle.py for bilingual burned-in captions)
   -> scripts/script_02_buzzsprout_upload.py  (podcast draft)
   -> scripts/script_03_youtube_prep.py       (YouTube upload checklist)
 ```
@@ -63,7 +70,8 @@ ep1's raw transcript exposed a gap the Playbook didn't anticipate — see
 - `src/` — edit-style learning + subtitle tools, ported (see attribution above):
   `edit_style_model.py` (learn a cut/retention profile from pre/post transcript pairs),
   `rough_cut.py` (propose/reconstruct/merge/apply a cut list), `dual_subtitle.py`
-  (bilingual Traditional Chinese + English burned-in captions), plus their dependencies
+  (bilingual Traditional Chinese + English captions — `.srt` for CapCut import/review,
+  `.ass`/`burn` for a direct ffmpeg hard-burn instead), plus their dependencies
   `delivery_media_ops.py` and `media_delivery_qa.py`
 - `templates/` — fill-in-the-blank style/voice templates, plus
   `edit_style_profile.template.md` (how to read `edit_style_model.py`'s output); ported
