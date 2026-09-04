@@ -1,0 +1,2768 @@
+[
+ {
+  "start": 0.8,
+  "end": 5.7,
+  "zh_clean": "大家好，我是 Olivia，目前在待業中，很開心能夠",
+  "en": "Hi, I'm Olivia. I'm currently unemployed, and really happy to be able"
+ },
+ {
+  "start": 5.8,
+  "end": 10.7,
+  "zh_clean": "跟我的好朋友 Nina 一起來做這個 podcast 的第一集，大家好",
+  "en": "to do episode one of this podcast with my good friend Nina. Hi everyone,"
+ },
+ {
+  "start": 10.7,
+  "end": 15.2,
+  "zh_clean": "我是 Nina，跟 Olivia 講的一樣，就是我們",
+  "en": "I'm Nina — same as Olivia said, we"
+ },
+ {
+  "start": 15.33,
+  "end": 20.6,
+  "zh_clean": "最近呢終於又在 reconnect，又聊，稍微聊了一下，想想啊",
+  "en": "recently reconnected, talked a bit, thought about"
+ },
+ {
+  "start": 20.6,
+  "end": 24.87,
+  "zh_clean": "目前的人生狀況啊跟未來的人生，然後彼此就分享到說",
+  "en": "where our lives are right now and where they're going, and shared that"
+ },
+ {
+  "start": 24.87,
+  "end": 30.67,
+  "zh_clean": "其實我們都在想要做 podcast，想很久了，但一直都沒有做起來，應該是一直都沒有踏出去",
+  "en": "we'd both been wanting to do a podcast for a long time but never started — never took that first step"
+ },
+ {
+  "start": 30.67,
+  "end": 36.13,
+  "zh_clean": "所以這次其實很興奮，就是有一個機會也可以跟 Olivia 一起搭檔",
+  "en": "So this time it's exciting — a chance to team up with Olivia"
+ },
+ {
+  "start": 36.13,
+  "end": 41.17,
+  "zh_clean": "然後開始我們這個的《The Long Way Here》的 podcast，那今天的第一集",
+  "en": "and start this podcast, The Long Way Here. So for today's first episode"
+ },
+ {
+  "start": 41.4,
+  "end": 45.4,
+  "zh_clean": "就是也想要趁機稍微聊一下啊最近發生的事情",
+  "en": "we also wanted to take the chance to talk about what's been going on recently"
+ },
+ {
+  "start": 45.4,
+  "end": 48.57,
+  "zh_clean": "一些職場上生活上面發生的事情",
+  "en": "some things happening at work, in life"
+ },
+ {
+  "start": 48.57,
+  "end": 52.3,
+  "zh_clean": "然後呃，最貼切的實事就是 lay off",
+  "en": "and, well, the most relevant current event is — a layoff"
+ },
+ {
+  "start": 52.77,
+  "end": 57.97,
+  "zh_clean": "（噹噹噹噹噹噹）哈哈哈，然後為什麼我們會有這件事情發生",
+  "en": "(dun dun dun dun dun dun) hahaha. So why did this even come up"
+ },
+ {
+  "start": 57.97,
+  "end": 59.07,
+  "zh_clean": "也是因為",
+  "en": "it's because"
+ },
+ {
+  "start": 59.6,
+  "end": 64.13,
+  "zh_clean": "本人呢很不幸的在之前被裁員了，領取大禮包",
+  "en": "I unfortunately got laid off recently — got the severance package"
+ },
+ {
+  "start": 64.13,
+  "end": 68.53,
+  "zh_clean": "然後那天跟 Nina 提起的時候想說，哎，能夠幹嘛呢",
+  "en": "and that day when I brought it up with Nina, I said, hey, what can I even do"
+ },
+ {
+  "start": 68.53,
+  "end": 73.97,
+  "zh_clean": "好像是不是可以搞一些事情，畢竟現在就是時間最多的時候",
+  "en": "maybe I could do something, since I've got the most free time I've ever had"
+ },
+ {
+  "start": 74.53,
+  "end": 80.23,
+  "zh_clean": "所以想說，哎，弄一下好了，嗯，所以我們就有了第一集的發想",
+  "en": "so I thought, okay, let's just do it — and that's how episode one came about"
+ },
+ {
+  "start": 80.6,
+  "end": 85.7,
+  "zh_clean": "對，所以第一集就是稍微講一下跟 layoff 相關的，其實我想到",
+  "en": "Right, so episode one is basically about the layoff. Actually, that reminds me"
+ },
+ {
+  "start": 85.77,
+  "end": 91.7,
+  "zh_clean": "我 3 年前其實自己也有被 layoff 過，哈哈哈，所以說學姐學姐好、學姐好",
+  "en": "I got laid off myself three years ago too, hahaha, so — senior, hey senior"
+ },
+ {
+  "start": 91.87,
+  "end": 96.87,
+  "zh_clean": "這也沒什麼好學不學姐的，就是純粹感覺就是人生應該都是",
+  "en": "not that there's really anything to learn from being senior at this, it's just that life seems like"
+ },
+ {
+  "start": 96.87,
+  "end": 98.77,
+  "zh_clean": "好像是一個必經之路",
+  "en": "something everyone has to go through eventually"
+ },
+ {
+  "start": 99.17,
+  "end": 101.27,
+  "zh_clean": "哎真的，人就是覺得",
+  "en": "really, people just feel like"
+ },
+ {
+  "start": 101.67,
+  "end": 106.87,
+  "zh_clean": "之前不是有個說法嗎，大家都說好像躲子彈，但是還是有些人躲不掉",
+  "en": "there's that saying, right — everyone says it's like dodging a bullet, but some people don't dodge it"
+ },
+ {
+  "start": 107.07,
+  "end": 109.57,
+  "zh_clean": "嗯，就像這次一樣",
+  "en": "and, like this time"
+ },
+ {
+  "start": 110.2,
+  "end": 114.37,
+  "zh_clean": "啊，還是沒有躲掉，也自我介紹一下",
+  "en": "I didn't dodge it either. A bit of self-introduction:"
+ },
+ {
+  "start": 114.37,
+  "end": 119.67,
+  "zh_clean": "2013 年來美國讀西北大學的 IMC program",
+  "en": "I came to the US in 2013 for the IMC program at Northwestern"
+ },
+ {
+  "start": 119.67,
+  "end": 124.67,
+  "zh_clean": "然後畢業之後就在美國成功找到工作",
+  "en": "and after graduating found a job successfully in the US"
+ },
+ {
+  "start": 124.97,
+  "end": 129.43,
+  "zh_clean": "2018 年後來有幸被 Nike 邀請到 Oregon 來",
+  "en": "in 2018 I was lucky enough to be brought to Nike in Oregon"
+ },
+ {
+  "start": 129.53,
+  "end": 133.97,
+  "zh_clean": "就一路到現在大概已經 7 年半",
+  "en": "and that's been about 7.5 years now"
+ },
+ {
+  "start": 133.97,
+  "end": 138.67,
+  "zh_clean": "8 月其實滿 8 年，所以是一個蠻長的過程",
+  "en": "8 years this August, so it's been a pretty long stretch"
+ },
+ {
+  "start": 138.8,
+  "end": 144.0,
+  "zh_clean": "嗯，就是從一個小小的 annual 職位，一路升到 director，然後",
+  "en": "I went from a small annual-level role all the way up to director, and then"
+ },
+ {
+  "start": 144.53,
+  "end": 148.93,
+  "zh_clean": "最後的一份子，其實說實在的，我覺得不太符合我的 background",
+  "en": "the last part of it, honestly, I don't think really fit my background"
+ },
+ {
+  "start": 148.93,
+  "end": 153.77,
+  "zh_clean": "因為變成一個 engineering manager，算是 BI",
+  "en": "because I became an engineering manager, specifically BI"
+ },
+ {
+  "start": 154.07,
+  "end": 155.83,
+  "zh_clean": "reporting engineering manager",
+  "en": "reporting engineering manager"
+ },
+ {
+  "start": 156.3,
+  "end": 160.57,
+  "zh_clean": "所以那時候本身是可以把事情做完的",
+  "en": "so at that point I could get things done"
+ },
+ {
+  "start": 161.77,
+  "end": 167.77,
+  "zh_clean": "但就是覺得這不是我喜歡的東西，所以當 Nike 在 3 月",
+  "en": "but I just felt like it wasn't what I loved. So when Nike, in March,"
+ },
+ {
+  "start": 168.07,
+  "end": 172.83,
+  "zh_clean": "有提及要 lay off 的時候，我當下就有點感覺",
+  "en": "mentioned they'd be doing layoffs, I felt something right away"
+ },
+ {
+  "start": 173.07,
+  "end": 175.9,
+  "zh_clean": "然後覺得說，哎，可能也是個契機",
+  "en": "and thought, hey, maybe this is actually an opportunity"
+ },
+ {
+  "start": 175.9,
+  "end": 180.7,
+  "zh_clean": "是不是可以好好想一下下一步，所以那時候其實就開始",
+  "en": "a chance to really think about what's next — so around then I actually started"
+ },
+ {
+  "start": 180.7,
+  "end": 182.47,
+  "zh_clean": "開始在看看工作",
+  "en": "quietly looking at jobs"
+ },
+ {
+  "start": 182.93,
+  "end": 187.87,
+  "zh_clean": "然後是後來，後來就越來越覺得，啊也是吧，我就 8 年了，在這裡",
+  "en": "And then, later, I started feeling more and more like — yeah, it's been 8 years, and here"
+ },
+ {
+  "start": 187.87,
+  "end": 193.17,
+  "zh_clean": "的確是一個很好的學習環境，不過也覺得是時候該走了",
+  "en": "really has been a great environment to learn in, but I also felt it was time to move on"
+ },
+ {
+  "start": 193.17,
+  "end": 198.3,
+  "zh_clean": "就是有種停止學習自己想要學的東西的感覺，所以後來領到大禮包的時候",
+  "en": "there was a sense of no longer learning what I actually wanted to learn. So when I got the severance package"
+ },
+ {
+  "start": 198.3,
+  "end": 203.07,
+  "zh_clean": "就有一種感覺，是一種契機，但當下被裁——怎麼辦人生",
+  "en": "there was this feeling, an opportunity, but in the moment, being let go — what do I even do"
+ },
+ {
+  "start": 203.37,
+  "end": 205.0,
+  "zh_clean": "怎麼辦人生",
+  "en": "with my life now"
+ },
+ {
+  "start": 205.5,
+  "end": 210.7,
+  "zh_clean": "就有點迷茫，對，嗯，你們兩個當初是怎麼發生的",
+  "en": "it felt disorienting. Right, so — how did it happen for you two?"
+ },
+ {
+  "start": 210.7,
+  "end": 216.47,
+  "zh_clean": "妳可以講一下妳的經驗嗎？那我也分享一下我前面的經驗好了",
+  "en": "Can you talk about your experience? Let me share my earlier experience too."
+ },
+ {
+  "start": 216.47,
+  "end": 222.2,
+  "zh_clean": "就先大方一點，我大概是 2010 年的時候來美國",
+  "en": "Let me be a bit more open about it — I came to the US around 2010"
+ },
+ {
+  "start": 222.2,
+  "end": 227.13,
+  "zh_clean": "那時候其實很幸運，因為疫情的關係，所以畢業就直接拿到綠卡",
+  "en": "I was lucky, because of the pandemic, I got a green card right after graduating"
+ },
+ {
+  "start": 227.13,
+  "end": 232.2,
+  "zh_clean": "拿綠卡來的，所以 2010 年來的時候，大概先在灣區這邊",
+  "en": "with the green card already, so when I arrived in 2010, I was in the Bay Area first"
+ },
+ {
+  "start": 232.2,
+  "end": 237.2,
+  "zh_clean": "先也很幸運找到一份工作，然後來到 2016 年的時候",
+  "en": "and luckily found a job. Then in 2016"
+ },
+ {
+  "start": 237.2,
+  "end": 242.37,
+  "zh_clean": "進去 Sifa 的美國總部，在裡面大概工作三年之後",
+  "en": "I joined Sifa's US headquarters, worked there about three years, and then"
+ },
+ {
+  "start": 242.37,
+  "end": 246.77,
+  "zh_clean": "2018 進到了美國 Copra 最後一間公司，叫做 Affirm",
+  "en": "in 2018 landed at my last US company — Affirm"
+ },
+ {
+  "start": 246.87,
+  "end": 251.6,
+  "zh_clean": "然後在裡面大概待了四年半，四年半的時間，其實見證了公司從 450 人",
+  "en": "I was there about four and a half years, and in that time I watched the company grow from 450 people"
+ },
+ {
+  "start": 251.6,
+  "end": 256.37,
+  "zh_clean": "一直到我離開的時候是 2,200 人，也是因為整個公司成長很快",
+  "en": "to 2,200 by the time I left. Because the company grew so fast"
+ },
+ {
+  "start": 256.37,
+  "end": 259.77,
+  "zh_clean": "所以到 2,200 人的時候就裁掉 500 人",
+  "en": "once it hit 2,200 people, they laid off 500"
+ },
+ {
+  "start": 260.2,
+  "end": 263.5,
+  "zh_clean": "所以我自己跟我下面的成員，其實",
+  "en": "so between myself and the people who reported to me"
+ },
+ {
+  "start": 263.6,
+  "end": 268.87,
+  "zh_clean": "聽說大概 90% 就被裁掉了，那其實在離開半年前",
+  "en": "I heard about 90% got cut. Honestly, about six months before I left"
+ },
+ {
+  "start": 268.87,
+  "end": 271.27,
+  "zh_clean": "大概就已經看到 writings on the wall",
+  "en": "I'd already seen the writing on the wall"
+ },
+ {
+  "start": 271.27,
+  "end": 275.37,
+  "zh_clean": "看到公司每 3 個月就做一次重組，每三個月就是嗯",
+  "en": "the company kept restructuring every three months, every three months there'd be"
+ },
+ {
+  "start": 275.37,
+  "end": 279.5,
+  "zh_clean": "換一些新的 project party，甚至那時候大概有兩個大頭，一樣的 C",
+  "en": "some new project heads brought in — at one point two top executives, both C-level"
+ },
+ {
+  "start": 279.5,
+  "end": 284.5,
+  "zh_clean": "就是 chief，一個是 COO 跟 CMO，都相繼離開",
+  "en": "one was the COO, one the CMO, both left around the same time"
+ },
+ {
+  "start": 284.5,
+  "end": 289.3,
+  "zh_clean": "那時候看到一些 CEO，跟看到我們那時候一些大頭離開，就覺得",
+  "en": "seeing CEOs, seeing our own leadership leave, made me feel like"
+ },
+ {
+  "start": 289.3,
+  "end": 291.9,
+  "zh_clean": "可能有一些變化要開始出現了",
+  "en": "something was about to change"
+ },
+ {
+  "start": 291.9,
+  "end": 296.4,
+  "zh_clean": "大概 2022 年年底就開始有一些裁員",
+  "en": "layoffs started around the end of 2022"
+ },
+ {
+  "start": 296.4,
+  "end": 300.33,
+  "zh_clean": "尤其是行銷部門被裁員，開始想說啊，呃，可能差不多了",
+  "en": "especially in marketing, and I started thinking it was probably close"
+ },
+ {
+  "start": 300.33,
+  "end": 304.1,
+  "zh_clean": "那我大概也開始想要去準備我的離開策略，所以那時候",
+  "en": "so I began preparing my exit strategy. So around then"
+ },
+ {
+  "start": 304.1,
+  "end": 308.83,
+  "zh_clean": "在被裁員的大概 4 個月之前，就開始準備了，準備包括就是去",
+  "en": "about four months before I actually got laid off, I started preparing — including"
+ },
+ {
+  "start": 308.87,
+  "end": 314.7,
+  "zh_clean": "想說自己下一步可以去哪裡，然後甚至開始受教練訓練",
+  "en": "figuring out where I could go next, even starting coach training"
+ },
+ {
+  "start": 315.0,
+  "end": 318.37,
+  "zh_clean": "但真的實際發生的時候，是 2023 年 2 月中的時候吧",
+  "en": "But when it actually happened, mid-February 2023"
+ },
+ {
+  "start": 318.37,
+  "end": 323.9,
+  "zh_clean": "實際發生的時候，其實也還是很 shock，尤其是那天我還進去公司",
+  "en": "it was still a shock, especially because that day I'd gone into the office"
+ },
+ {
+  "start": 323.9,
+  "end": 328.97,
+  "zh_clean": "要去工作跟兼職，然後順便去看一下醫生，然後那天",
+  "en": "for work, planned to see a doctor on the side. And that day"
+ },
+ {
+  "start": 329.2,
+  "end": 334.97,
+  "zh_clean": "呃，大概中午的時候吧，就先出去外面看醫生，走去的路上就發現",
+  "en": "around noon, I stepped out to go to the doctor, and on the way I noticed"
+ },
+ {
+  "start": 334.97,
+  "end": 337.3,
+  "zh_clean": "哎，就突然看到一個新的 meeting invite",
+  "en": "a new meeting invite suddenly pop up"
+ },
+ {
+  "start": 337.3,
+  "end": 340.03,
+  "zh_clean": "然後我們就馬上傳 Slack 跟我，那時候老板說",
+  "en": "and I immediately got a Slack — my boss said"
+ },
+ {
+  "start": 340.67,
+  "end": 341.7,
+  "zh_clean": "what's going on",
+  "en": "what's going on"
+ },
+ {
+  "start": 342.4,
+  "end": 346.47,
+  "zh_clean": "然後但是後來邊走就想說，不對不對，這件事情要發生了",
+  "en": "I kept walking but thought, no, no — this is about to happen"
+ },
+ {
+  "start": 346.47,
+  "end": 351.73,
+  "zh_clean": "然後後來到了醫院之後就打了一針，打完針之後馬上在他那個後衛",
+  "en": "After I got to the doctor's office and got a shot, right outside the building"
+ },
+ {
+  "start": 351.73,
+  "end": 355.8,
+  "zh_clean": "就在那個醫院外面的後衛，就接了這通，大概有 10 分鐘的",
+  "en": "outside the hospital, I took the call — about ten minutes"
+ },
+ {
+  "start": 355.8,
+  "end": 358.23,
+  "zh_clean": "那時候是 CTO 跟 HRBP，就是",
+  "en": "it was the CTO and the HRBP, which is"
+ },
+ {
+  "start": 358.9,
+  "end": 360.8,
+  "zh_clean": "human resources business partner",
+  "en": "human resources business partner"
+ },
+ {
+  "start": 360.87,
+  "end": 366.3,
+  "zh_clean": "直接在那個上面跟我講，但那時候其實是他的一個 presentation",
+  "en": "who told me directly. But it was actually a presentation of his"
+ },
+ {
+  "start": 366.3,
+  "end": 370.93,
+  "zh_clean": "是所有人都看得到，但每個人是一對一這樣子，每個人看不到其他人，哦是哦",
+  "en": "that everyone could technically see, but delivered one-on-one, so no one could see anyone else"
+ },
+ {
+  "start": 370.93,
+  "end": 371.9,
+  "zh_clean": "對啊，對哇",
+  "en": "yeah, wow"
+ },
+ {
+  "start": 372.47,
+  "end": 377.43,
+  "zh_clean": "我是 mass lay off，對，就是他直接裁了 500 人嗎",
+  "en": "It was a mass layoff, yeah — he just went ahead and cut 500 people directly"
+ },
+ {
+  "start": 377.87,
+  "end": 379.27,
+  "zh_clean": "對啊，所以那時候",
+  "en": "yeah, so at that point"
+ },
+ {
+  "start": 379.7,
+  "end": 383.7,
+  "zh_clean": "嗯，就還蠻 shock，但公司其實也蠻好的",
+  "en": "it was still pretty shocking, but the company handled it decently"
+ },
+ {
+  "start": 383.7,
+  "end": 389.53,
+  "zh_clean": "因為我還是回得了公司，他還是跟大家講說，呃，因為規模很大",
+  "en": "because I could still go back into the building — he told everyone, because it was such a large scale,"
+ },
+ {
+  "start": 389.53,
+  "end": 393.4,
+  "zh_clean": "所以他其實有給大家大概留一天的時間去收東西",
+  "en": "he gave everyone about a day to pack up"
+ },
+ {
+  "start": 393.87,
+  "end": 398.9,
+  "zh_clean": "那個時候公司其實是可以完全遠端的，但 hybrid 的話還是有辦公室",
+  "en": "the company was technically fully remote-capable, but hybrid meant there was still an office"
+ },
+ {
+  "start": 398.9,
+  "end": 404.2,
+  "zh_clean": "這時候其實還有辦公室，那天我回去之後就是也看得到整個公司還在裡面的人",
+  "en": "The company still had an office at that point, and when I went back that day I could see everyone still in the building"
+ },
+ {
+  "start": 404.2,
+  "end": 409.87,
+  "zh_clean": "就是大家都非常的慘澹，然後有跟我的組員講說，趕快開始收東西",
+  "en": "everyone looking pretty grim. I told my team, start packing up right away"
+ },
+ {
+  "start": 409.87,
+  "end": 415.67,
+  "zh_clean": "趕快把你的東西就是 archive 存起來，對啊，但是那天就是真的發生的很快",
+  "en": "archive your files quickly. Yeah, but that day it really moved fast"
+ },
+ {
+  "start": 415.73,
+  "end": 421.37,
+  "zh_clean": "但是對我來講，可能就是有一種啊 OK，要發生了，哦好，那就來吧的這種感覺",
+  "en": "but for me there was this sense of, okay, it's happening, alright, let's go"
+ },
+ {
+  "start": 421.37,
+  "end": 426.87,
+  "zh_clean": "那妳呢，感覺應該還蠻血淋淋的，剛剛發生，對，目前還有點",
+  "en": "And you — that must still feel pretty raw, this just happened. Yeah, there's still a bit of"
+ },
+ {
+  "start": 426.87,
+  "end": 430.2,
+  "zh_clean": "其實那時候第一個禮拜我還覺得我其實還好",
+  "en": "Actually in the first week I felt like I was actually okay"
+ },
+ {
+  "start": 430.57,
+  "end": 435.2,
+  "zh_clean": "因為就是有預兆嘛，就像妳說的，因為公司一直在重組",
+  "en": "because there'd been warning signs, like you said, the company kept restructuring"
+ },
+ {
+  "start": 435.2,
+  "end": 437.8,
+  "zh_clean": "Nike 的表現已經不太好了",
+  "en": "Nike's performance wasn't great"
+ },
+ {
+  "start": 437.8,
+  "end": 443.77,
+  "zh_clean": "重組裁員其實已經好幾次了，而且最大的一次，就是躲過那一次之後",
+  "en": "there'd already been several rounds of restructuring layoffs, and the biggest one — after dodging that one"
+ },
+ {
+  "start": 443.77,
+  "end": 448.07,
+  "zh_clean": "來到目前這一波，其實那時候就覺得公司不太穩",
+  "en": "we got to this round, and by then I already felt the company wasn't stable"
+ },
+ {
+  "start": 448.2,
+  "end": 454.07,
+  "zh_clean": "所以第一個禮拜接到消息的時候，我們公司走的流程是主管直接跟妳面談",
+  "en": "So in the first week, when I got the news, our company's process was: your manager talks to you directly"
+ },
+ {
+  "start": 454.07,
+  "end": 458.2,
+  "zh_clean": "然後跟 HR，所以他跟我講的時候的方式啊",
+  "en": "then HR. The way he told me was"
+ },
+ {
+  "start": 458.67,
+  "end": 461.57,
+  "zh_clean": "because the restructuring the roles",
+  "en": "because the restructuring the roles"
+ },
+ {
+  "start": 461.77,
+  "end": 463.2,
+  "zh_clean": "no longer needed",
+  "en": "no longer needed"
+ },
+ {
+  "start": 463.87,
+  "end": 466.37,
+  "zh_clean": "對，所以當下這個禮拜我覺得啊，whatever",
+  "en": "Right, so that week I felt like, whatever"
+ },
+ {
+  "start": 466.57,
+  "end": 471.0,
+  "zh_clean": "I knew it and Nike is not performing well, I understand",
+  "en": "I knew it and Nike is not performing well, I understand"
+ },
+ {
+  "start": 471.17,
+  "end": 472.23,
+  "zh_clean": "我覺得",
+  "en": "I felt"
+ },
+ {
+  "start": 473.13,
+  "end": 476.97,
+  "zh_clean": "當下能讓我感到欣慰的是，我的組員每個人都跑過來",
+  "en": "what comforted me in the moment was every one of my team members came up to me"
+ },
+ {
+  "start": 476.97,
+  "end": 482.43,
+  "zh_clean": "非常感謝我對大家的付出，然後最讓我感動的是，之前離開的 VP",
+  "en": "thanking me for everything I'd done for them, and what moved me most was a VP who'd left earlier"
+ },
+ {
+  "start": 482.73,
+  "end": 486.73,
+  "zh_clean": "跟所有的 leadership，他們都一個一個跑過來跟我說",
+  "en": "and the whole leadership team, they came up to me one by one and said"
+ },
+ {
+  "start": 486.73,
+  "end": 490.67,
+  "zh_clean": "stay connected，我記得非常清楚，然後",
+  "en": "stay connected — I remember that so clearly. And"
+ },
+ {
+  "start": 490.67,
+  "end": 496.6,
+  "zh_clean": "我當下其實非常驚訝，因為我跟那個 VP 並沒有",
+  "en": "I was genuinely surprised in the moment, because I wasn't"
+ },
+ {
+  "start": 496.6,
+  "end": 500.47,
+  "zh_clean": "到那麼熟，所以他知道我這個人的時候，我非常驚訝之外",
+  "en": "actually that close with that VP, so I was surprised he even knew who I was"
+ },
+ {
+  "start": 500.47,
+  "end": 506.23,
+  "zh_clean": "而且我想說是誰跟他說的，怎麼感覺那個 information 已經繞了一整圈",
+  "en": "and I wondered who told him — it felt like the information had gone all the way around"
+ },
+ {
+  "start": 506.57,
+  "end": 512.27,
+  "zh_clean": "當然後來他也說他一直都知道我是誰，所以當下心情有比較好一點",
+  "en": "of course he later said he'd always known who I was, so that made me feel a bit better"
+ },
+ {
+  "start": 512.57,
+  "end": 516.57,
+  "zh_clean": "然後最重要的是，呃，我之前 Nike",
+  "en": "And most importantly, another"
+ },
+ {
+  "start": 516.57,
+  "end": 519.1,
+  "zh_clean": "的另外一個 VP 也跟我說",
+  "en": "VP from Nike also told me"
+ },
+ {
+  "start": 519.2,
+  "end": 521.67,
+  "zh_clean": "Don't take it personally, it's not about you",
+  "en": "Don't take it personally, it's not about you"
+ },
+ {
+  "start": 521.67,
+  "end": 525.3,
+  "zh_clean": "當下真的有一種 self crisis，我其實現在都還有",
+  "en": "in the moment it really did feel like a self crisis, and honestly I still carry"
+ },
+ {
+  "start": 526.07,
+  "end": 530.43,
+  "zh_clean": "一定有啊，一定會，對對，所以我覺得說，未來",
+  "en": "some of it now — for sure. So I want to say, in the future"
+ },
+ {
+  "start": 531.07,
+  "end": 536.37,
+  "zh_clean": "有幸聽到我們 podcast 的人，如果妳也在經歷這件事情的時候",
+  "en": "if anyone listening to our podcast is going through this too"
+ },
+ {
+  "start": 536.37,
+  "end": 538.47,
+  "zh_clean": "就想跟妳說，feel all the feels",
+  "en": "I want to tell you: feel all the feels"
+ },
+ {
+  "start": 538.47,
+  "end": 541.43,
+  "zh_clean": "因為這其實算是一個 very unique experience",
+  "en": "because this really is a very unique experience"
+ },
+ {
+  "start": 541.67,
+  "end": 546.9,
+  "zh_clean": "對，就是讓那種痛苦難受的經驗",
+  "en": "yeah, the kind of painful experience that made me"
+ },
+ {
+  "start": 547.93,
+  "end": 549.77,
+  "zh_clean": "第一次在思考",
+  "en": "think, for the first time"
+ },
+ {
+  "start": 550.7,
+  "end": 555.1,
+  "zh_clean": "who define you, is the job define you, or you define yourself",
+  "en": "who defines you — does the job define you, or do you define yourself"
+ },
+ {
+  "start": 555.3,
+  "end": 559.97,
+  "zh_clean": "所以這件事情我到現在還在思考，要怎麼走過這件事情",
+  "en": "so I'm still thinking through this one, still working out how to get past it"
+ },
+ {
+  "start": 559.97,
+  "end": 562.63,
+  "zh_clean": "嗯，那妳們兩個當初有這種感覺嗎",
+  "en": "Did you two feel this way at the time?"
+ },
+ {
+  "start": 563.13,
+  "end": 566.53,
+  "zh_clean": "我覺得就像妳剛剛講的那些情緒，其實都有，可能都有",
+  "en": "I think all the emotions you just described, they're all there, probably all of them"
+ },
+ {
+  "start": 566.53,
+  "end": 572.47,
+  "zh_clean": "在當下，甚至結束之後的幾個禮拜都還有，甚至我覺得半年之後都還有",
+  "en": "in the moment, even weeks after it ended, even I think six months later they're still there"
+ },
+ {
+  "start": 572.47,
+  "end": 578.07,
+  "zh_clean": "就是偶爾想起來的時候，如果當下那天狀態不太好，或者今天天氣可能不太好",
+  "en": "every so often, if you're not having a great day, or the weather's not great"
+ },
+ {
+  "start": 578.07,
+  "end": 581.47,
+  "zh_clean": "可能就會突然讓自己的情緒開始陷入一些",
+  "en": "it can suddenly drag your mood down into some"
+ },
+ {
+  "start": 581.5,
+  "end": 587.2,
+  "zh_clean": "不管是自我懷疑，或是 self pity，或是會去懷疑",
+  "en": "self-doubt, or self-pity, or start questioning"
+ },
+ {
+  "start": 587.2,
+  "end": 589.6,
+  "zh_clean": "自己的價值到底在哪裡",
+  "en": "where your own value actually comes from"
+ },
+ {
+  "start": 590.0,
+  "end": 593.87,
+  "zh_clean": "但是我記得很清楚，我覺得那一天",
+  "en": "But I remember very clearly, that day"
+ },
+ {
+  "start": 593.87,
+  "end": 596.6,
+  "zh_clean": "或者說 the aftermath, maybe within seven days",
+  "en": "or the aftermath, within about seven days"
+ },
+ {
+  "start": 596.6,
+  "end": 601.23,
+  "zh_clean": "我覺得最大的情緒是 relief，就是一種啊嗯",
+  "en": "I think the biggest emotion was relief. Like,"
+ },
+ {
+  "start": 601.57,
+  "end": 607.2,
+  "zh_clean": "這樣了，我可以走了，我可以走了，那就走吧，讓我放下吧——這種 relief",
+  "en": "okay, that's it, I can go now, I can go — so let's go, let me let it go, that kind of relief"
+ },
+ {
+  "start": 607.4,
+  "end": 612.2,
+  "zh_clean": "或者說終於不用被工作困住，我終於可以稍微 relief",
+  "en": "or, finally not being trapped by the job anymore, finally getting some relief"
+ },
+ {
+  "start": 612.57,
+  "end": 615.43,
+  "zh_clean": "from all the stress in work",
+  "en": "from all the stress at work"
+ },
+ {
+  "start": 615.77,
+  "end": 621.1,
+  "zh_clean": "所以最大的應該還是一種坦然跟接受",
+  "en": "so the biggest thing was probably a sense of calm acceptance"
+ },
+ {
+  "start": 622.07,
+  "end": 626.57,
+  "zh_clean": "的這種感覺，嗯嗯，我也可以理解，因為那時候",
+  "en": "Yeah, I get that, because in that first week"
+ },
+ {
+  "start": 626.57,
+  "end": 631.4,
+  "zh_clean": "嗯，第一個禮拜的確是這樣想，就有一種放鬆感",
+  "en": "I really did feel that way too, there was a sense of relief"
+ },
+ {
+  "start": 631.4,
+  "end": 635.57,
+  "zh_clean": "這樣很鬆弛感，嗯，所以說第二個禮拜之後",
+  "en": "kind of loose and relaxed. So then in the second week"
+ },
+ {
+  "start": 635.57,
+  "end": 641.13,
+  "zh_clean": "面的感覺來的時候，就有點不太能夠調適了，嗯對，嗯對啊，我覺得",
+  "en": "when the real feelings came, I couldn't quite adjust to it anymore. Yeah, and I could hear"
+ },
+ {
+  "start": 641.13,
+  "end": 645.8,
+  "zh_clean": "我有聽到妳在說的過程，甚至是妳的口氣，其實也有一些",
+  "en": "it — even in how you were talking, there was some"
+ },
+ {
+  "start": 645.93,
+  "end": 651.47,
+  "zh_clean": "無奈，有一些 disappointment，然後有一些抱怨，對啊，做了這麼多努力",
+  "en": "helplessness, some disappointment, and a bit of resentment — like, after putting in so much effort"
+ },
+ {
+  "start": 651.47,
+  "end": 652.87,
+  "zh_clean": "之後，其實好像有一種",
+  "en": "it feels like it was kind of"
+ },
+ {
+  "start": 653.37,
+  "end": 655.67,
+  "zh_clean": "浪費的感覺，但是",
+  "en": "a waste. But"
+ },
+ {
+  "start": 656.13,
+  "end": 660.5,
+  "zh_clean": "另外一方面，其實也像妳剛剛講到的，好像有人幫我們做決定了，OK？",
+  "en": "on the other hand, like you said, it's also kind of like someone made the decision for us, right?"
+ },
+ {
+  "start": 660.5,
+  "end": 666.2,
+  "zh_clean": "對啊，因為可能想要離開，或是懷疑這份工作，或現在做的這件事情",
+  "en": "Because whether you want to leave, or you're doubting whether this job or what you're doing"
+ },
+ {
+  "start": 666.2,
+  "end": 671.57,
+  "zh_clean": "是不是自己想要做的，我相信自己在還在工作的時候也會有這些想法",
+  "en": "is really what you want — I believe I had those thoughts even while I was still working"
+ },
+ {
+  "start": 671.6,
+  "end": 677.17,
+  "zh_clean": "但真的要有這個驅動力讓自己決定要斬斷這個 connection",
+  "en": "but actually having the drive to cut that connection yourself"
+ },
+ {
+  "start": 677.17,
+  "end": 682.6,
+  "zh_clean": "是很難從自身生出來的，所以如果有一個人幫妳決定了，那種",
+  "en": "is really hard to generate from within. So if someone makes that decision for you, that"
+ },
+ {
+  "start": 682.73,
+  "end": 685.33,
+  "zh_clean": "破釜沉舟，要真的開始努力",
+  "en": "burn-the-boats determination to actually start pushing"
+ },
+ {
+  "start": 685.33,
+  "end": 689.17,
+  "zh_clean": "去下一個路線打拼的這種決心",
+  "en": "toward the next path"
+ },
+ {
+  "start": 689.77,
+  "end": 692.43,
+  "zh_clean": "我們可能也不會有這個機會，這個 party",
+  "en": "we might never have gotten that opportunity, this whole thing"
+ },
+ {
+  "start": 692.93,
+  "end": 696.9,
+  "zh_clean": "對沒錯，也是很有緣分，所以要感謝老天、感謝全公司幫我們累哦",
+  "en": "Right, exactly, it's kind of fated too — so we should thank the universe, thank the whole company for wearing us out"
+ },
+ {
+  "start": 696.9,
+  "end": 701.57,
+  "zh_clean": "這樣的意思嗎，哈哈哈哈，還沒有到感謝的地步吧，哈哈哈哈",
+  "en": "is that what you mean? Hahaha. Not quite to the point of thanks yet, hahaha"
+ },
+ {
+  "start": 703.8,
+  "end": 708.53,
+  "zh_clean": "呀對啊，所以我覺得這些情緒都是所謂的那個",
+  "en": "Yeah, so I think these emotions are what's called"
+ },
+ {
+  "start": 708.53,
+  "end": 709.8,
+  "zh_clean": "different stages of grieving",
+  "en": "different stages of grieving"
+ },
+ {
+  "start": 709.8,
+  "end": 713.63,
+  "zh_clean": "但它又會回來，又覺得 shock，然後又生氣，然後又難過",
+  "en": "but it keeps coming back — you feel shock, then anger, then sadness again"
+ },
+ {
+  "start": 714.33,
+  "end": 717.23,
+  "zh_clean": "所以不是不相信——沒有，是相信的",
+  "en": "so it's not that you don't believe it — no, you do believe it"
+ },
+ {
+  "start": 717.57,
+  "end": 723.1,
+  "zh_clean": "對對沒錯沒錯，有時候甚至還會看到某些東西",
+  "en": "yeah exactly, sometimes you'll even see something"
+ },
+ {
+  "start": 723.1,
+  "end": 725.2,
+  "zh_clean": "然後突然又會撞擊到自己",
+  "en": "and it suddenly hits you again"
+ },
+ {
+  "start": 725.8,
+  "end": 731.57,
+  "zh_clean": "比如說有時候不小心打開——因為我現在其實很多時候會上一些社群",
+  "en": "like sometimes I'll accidentally open — because I'm often on a certain community platform"
+ },
+ {
+  "start": 731.57,
+  "end": 736.77,
+  "zh_clean": "上面就是寫文章，但後來發現有時候一點連結進去，就會看到",
+  "en": "where people post articles, and then I'll click a link and see"
+ },
+ {
+  "start": 736.77,
+  "end": 741.87,
+  "zh_clean": "哦別人又怎麼樣了、別人又怎麼樣了，然後有時候就會覺得被刺了一下，哎被刺了一下",
+  "en": "oh so-and-so did this, so-and-so did that, and sometimes it feels like a little sting, a sting"
+ },
+ {
+  "start": 741.87,
+  "end": 745.77,
+  "zh_clean": "就覺得說，好像我如果繼續留下去的話，也可以坐到那個位置",
+  "en": "it makes you feel like, if I'd stayed, I could be in that position too"
+ },
+ {
+  "start": 745.77,
+  "end": 749.6,
+  "zh_clean": "看到別人說，就會有一種——我沒有，我覺得",
+  "en": "seeing someone else's post gives you this feeling — not that I don't, I think"
+ },
+ {
+  "start": 749.6,
+  "end": 752.1,
+  "zh_clean": "會激發一種稀缺的感覺",
+  "en": "it triggers a kind of scarcity feeling"
+ },
+ {
+  "start": 752.5,
+  "end": 755.4,
+  "zh_clean": "所以嗯，其實沒有很喜歡那種稀缺感",
+  "en": "so honestly I don't really like that scarcity feeling"
+ },
+ {
+  "start": 756.07,
+  "end": 760.43,
+  "zh_clean": "所以有密信道嗎？哈哈，啊比較像是 scarcity",
+  "en": "is there a private channel for that? Hahaha, more like scarcity"
+ },
+ {
+  "start": 760.8,
+  "end": 763.2,
+  "zh_clean": "就覺得說自己沒有、別人有，我沒有",
+  "en": "feeling that you don't have something that someone else has"
+ },
+ {
+  "start": 763.6,
+  "end": 769.0,
+  "zh_clean": "但我看到別人有、我沒有的時候，就會覺得，那我是不是也要一下？或者說，哎，我是不是不夠好？",
+  "en": "but when I see someone else has it and I don't, I start thinking, should I be doing that too? Or, am I not good enough?"
+ },
+ {
+  "start": 769.0,
+  "end": 774.73,
+  "zh_clean": "哎，我是不是不應該那時候放棄，不繼續追求",
+  "en": "should I not have given up back then, should I have kept pursuing it"
+ },
+ {
+  "start": 774.73,
+  "end": 778.5,
+  "zh_clean": "對，但是有這種情緒的話，其實我會",
+  "en": "Yeah, but when I notice I'm having that feeling, I'll"
+ },
+ {
+  "start": 778.5,
+  "end": 784.43,
+  "zh_clean": "注意到自己有這種情緒，然後花一點時間跟精力去做 reframe",
+  "en": "notice it, and then take some time and energy to reframe it"
+ },
+ {
+  "start": 784.47,
+  "end": 786.63,
+  "zh_clean": "去做轉念，那有的時候",
+  "en": "to shift my thinking on it. And sometimes"
+ },
+ {
+  "start": 786.93,
+  "end": 791.03,
+  "zh_clean": "會覺得花精力在這個轉念上，或者是",
+  "en": "I feel like spending the energy to reframe it, or"
+ },
+ {
+  "start": 791.1,
+  "end": 795.07,
+  "zh_clean": "去告訴自己，哎，其實可以幫對方開心，雖然我最",
+  "en": "to tell myself, hey, I can actually be happy for them. Though I"
+ },
+ {
+  "start": 795.07,
+  "end": 799.27,
+  "zh_clean": "到後來都可以去轉念到很正面的，然後去為對方開心",
+  "en": "usually do get to a genuinely positive place eventually, being happy for the other person"
+ },
+ {
+  "start": 799.3,
+  "end": 803.53,
+  "zh_clean": "也會感激自己擁有的，但是當初剛遇到自己",
+  "en": "and grateful for what I have too. But early on, when I was"
+ },
+ {
+  "start": 803.53,
+  "end": 809.17,
+  "zh_clean": "都還在花一些精力去轉念的時候，後來就乾脆——那我就不要看那個平台就好了，哈哈哈哈",
+  "en": "still spending energy trying to reframe it every time, I eventually just thought — fine, I just won't look at that platform, hahaha"
+ },
+ {
+  "start": 809.17,
+  "end": 813.17,
+  "zh_clean": "不要看到就不會有這種感覺，對啊，的確的確，那",
+  "en": "if I don't see it, I won't feel that way. Yeah, exactly, exactly. So"
+ },
+ {
+  "start": 813.37,
+  "end": 817.1,
+  "zh_clean": "妳可以講講當初為什麼決定要轉",
+  "en": "can you talk about why you decided to pivot into"
+ },
+ {
+  "start": 817.1,
+  "end": 819.5,
+  "zh_clean": "去做 coach 和 career coaching",
+  "en": "being a coach, career coaching"
+ },
+ {
+  "start": 820.07,
+  "end": 825.83,
+  "zh_clean": "嗯，有什麼契機嗎？然後妳到底花了多少時間？因為其實我現在還在迷茫當中",
+  "en": "what was the trigger? And how much time did it actually take you? Because honestly I'm still in the fog on this one"
+ },
+ {
+  "start": 825.87,
+  "end": 826.67,
+  "zh_clean": "嗯",
+  "en": "hmm"
+ },
+ {
+  "start": 827.57,
+  "end": 832.67,
+  "zh_clean": "像我剛剛有提到，我其實在被裁員前半年就開始準備，不管是心理準備",
+  "en": "Like I mentioned, I actually started preparing about six months before I got laid off — both mentally"
+ },
+ {
+  "start": 832.67,
+  "end": 836.6,
+  "zh_clean": "或是開始做一些調查跟反思",
+  "en": "and by doing research and reflection"
+ },
+ {
+  "start": 836.6,
+  "end": 841.27,
+  "zh_clean": "去想自己的強項在哪裡，或自己喜歡的東西在哪裡",
+  "en": "thinking about where my strengths are, what I actually enjoy"
+ },
+ {
+  "start": 841.27,
+  "end": 845.73,
+  "zh_clean": "然後開始去做一些研究跟一些 MVP，去",
+  "en": "and then starting to do research and some MVPs to"
+ },
+ {
+  "start": 845.73,
+  "end": 851.3,
+  "zh_clean": "測試哪幾個方向是可行的，因為我其實一直以來都蠻喜歡做自我成長",
+  "en": "test which directions were viable. I've always been into personal growth"
+ },
+ {
+  "start": 851.3,
+  "end": 856.9,
+  "zh_clean": "跟心理學的內容，很關鍵的應該是——以前就知道日本的 Ikigai 這個概念",
+  "en": "and psychology content, and one key thing was — I already knew the Japanese concept of Ikigai"
+ },
+ {
+  "start": 856.9,
+  "end": 861.0,
+  "zh_clean": "就是四個項目：你在行的、你熱愛的",
+  "en": "which is four circles: what you're good at, what you love"
+ },
+ {
+  "start": 861.0,
+  "end": 864.97,
+  "zh_clean": "世界需要的，跟你可以得到回饋的，所以這是一個",
+  "en": "what the world needs, and what you can get paid for. That was a"
+ },
+ {
+  "start": 865.37,
+  "end": 870.47,
+  "zh_clean": "框架，是之前有學到的，後來 2021、2022 年的時候",
+  "en": "framework I'd learned before. Then around 2021, 2022"
+ },
+ {
+  "start": 870.47,
+  "end": 872.6,
+  "zh_clean": "看了一本書叫做《Designing Your Life》",
+  "en": "I read a book called Designing Your Life"
+ },
+ {
+  "start": 873.57,
+  "end": 875.87,
+  "zh_clean": "是史丹佛好幾個教授寫的",
+  "en": "written by several Stanford professors"
+ },
+ {
+  "start": 875.87,
+  "end": 880.13,
+  "zh_clean": "專門用 design thinking 的方式，去幫人們用一個框架",
+  "en": "which specifically uses design thinking to help people use a framework"
+ },
+ {
+  "start": 880.13,
+  "end": 884.77,
+  "zh_clean": "找出什麼樣的人生方向適合自己，那時候",
+  "en": "to figure out what life direction actually fits them. Around then"
+ },
+ {
+  "start": 884.77,
+  "end": 889.2,
+  "zh_clean": "2022 年也開始看這些書",
+  "en": "in 2022 I started reading these books"
+ },
+ {
+  "start": 889.2,
+  "end": 894.27,
+  "zh_clean": "做了很多自己的 reflection，也是在那兩個練習中",
+  "en": "did a lot of my own reflection, and through those two exercises"
+ },
+ {
+  "start": 894.27,
+  "end": 899.6,
+  "zh_clean": "慢慢找出一些新的方向——包括那時候開了一間跟環保",
+  "en": "gradually found some new directions — including at one point starting a company related to"
+ },
+ {
+  "start": 899.6,
+  "end": 904.07,
+  "zh_clean": "相關的公司；第二個可能是往所謂的 mental health 方向走",
+  "en": "environmental sustainability; a second direction was maybe toward mental health"
+ },
+ {
+  "start": 904.07,
+  "end": 909.0,
+  "zh_clean": "因為我覺得 mental health 對我來說",
+  "en": "because I feel mental health is"
+ },
+ {
+  "start": 909.0,
+  "end": 911.9,
+  "zh_clean": "是一件非常非常重要的事情",
+  "en": "a really, really important thing to me"
+ },
+ {
+  "start": 911.9,
+  "end": 913.47,
+  "zh_clean": "然後我也認為 mental health",
+  "en": "and I also believe mental health"
+ },
+ {
+  "start": 913.93,
+  "end": 918.97,
+  "zh_clean": "可以間接幫助地球，因為如果大家更能被 heal、被安撫的話",
+  "en": "can indirectly help the planet, because if people can be more healed, more soothed"
+ },
+ {
+  "start": 918.97,
+  "end": 923.0,
+  "zh_clean": "可能就不會做這麼多的消費行為",
+  "en": "they might not engage in as much consumption"
+ },
+ {
+  "start": 923.0,
+  "end": 928.57,
+  "zh_clean": "因為很多時候消費行為只是一種滿足自己",
+  "en": "because a lot of the time consumption is just a way of meeting"
+ },
+ {
+  "start": 928.67,
+  "end": 934.4,
+  "zh_clean": "需求的方式吧，嗯，所以我那時候也認為 mental health 其實也是一個幫助地球",
+  "en": "some other need. So at the time I also thought mental health was an industry that both helps the planet"
+ },
+ {
+  "start": 934.4,
+  "end": 939.17,
+  "zh_clean": "又幫助人的產業，現在還有想到，那不然可以回去做瑜伽老師",
+  "en": "and helps people. I even thought about going back to being a yoga teacher"
+ },
+ {
+  "start": 939.17,
+  "end": 944.43,
+  "zh_clean": "或是去做調酒師，然後第五個就是去做社群",
+  "en": "or being a bartender, and the fifth idea was building a community"
+ },
+ {
+  "start": 944.7,
+  "end": 949.97,
+  "zh_clean": "所以那時候大家就是用這兩個框架，梳理出自己大概有哪些方向可以走",
+  "en": "So at the time I used those two frameworks to map out roughly which directions were possible"
+ },
+ {
+  "start": 949.97,
+  "end": 954.8,
+  "zh_clean": "然後這幾個方向之後就會去研究、調查，或問過曾經做過的人",
+  "en": "and then for each direction I'd go research it, or talk to people who'd already done it"
+ },
+ {
+  "start": 954.8,
+  "end": 957.37,
+  "zh_clean": "看這個方向是不是可行的",
+  "en": "to see if that direction was actually viable"
+ },
+ {
+  "start": 957.93,
+  "end": 962.1,
+  "zh_clean": "嗯，所以大概是用這樣的方式，去規劃出哪些可能性",
+  "en": "That's roughly how I mapped out the possibilities"
+ },
+ {
+  "start": 962.1,
+  "end": 964.2,
+  "zh_clean": "算是自己的 MVP 吧",
+  "en": "call it my own MVP process"
+ },
+ {
+  "start": 964.73,
+  "end": 969.1,
+  "zh_clean": "OK，對啊，我覺得我應該好好做一下，哈哈哈，我已經有 problem 了",
+  "en": "Okay, yeah, I think I should really sit down and do this properly, hahaha, I already have a problem here"
+ },
+ {
+  "start": 969.1,
+  "end": 974.97,
+  "zh_clean": "我還做了一個 e-book，可以再傳給妳，哈哈哈，好，沒問題，哈哈哈，那我待會傳",
+  "en": "I actually made an e-book too, I can send it to you, hahaha. Okay, no problem, hahaha, I'll send"
+ },
+ {
+  "start": 974.97,
+  "end": 980.47,
+  "zh_clean": "那個連結給妳，如果有人需要的話也可以，對對對對對",
+  "en": "you the link in a bit — if anyone needs it, it's available too. Yes yes yes yes"
+ },
+ {
+  "start": 981.67,
+  "end": 987.2,
+  "zh_clean": "哎，我覺得這是非常好的工具，說起來我之前第一個反應就是——那就去找工作吧",
+  "en": "I think that's a really great tool. Honestly my first instinct back then was just — okay, go find a job"
+ },
+ {
+  "start": 987.27,
+  "end": 988.17,
+  "zh_clean": "嗯，所以",
+  "en": "so"
+ },
+ {
+  "start": 988.57,
+  "end": 993.13,
+  "zh_clean": "3 月正式開始慢慢找工作的時候",
+  "en": "when I actually started job-hunting seriously in March"
+ },
+ {
+  "start": 993.13,
+  "end": 997.6,
+  "zh_clean": "其實就是很簡單地打開履歷網站",
+  "en": "it was really just — open the resume site"
+ },
+ {
+  "start": 997.6,
+  "end": 1002.0,
+  "zh_clean": "改履歷、投履歷這樣子，嗯，所以並沒有很",
+  "en": "edit the resume, apply — I hadn't really"
+ },
+ {
+  "start": 1002.1,
+  "end": 1006.4,
+  "zh_clean": "認真地去思考除了工作之外還可以做什麼",
+  "en": "seriously thought about what else I could do besides get another job"
+ },
+ {
+  "start": 1006.4,
+  "end": 1010.77,
+  "zh_clean": "嗯對啊，所以當下我有一段",
+  "en": "Yeah, so at that point I had a bit of"
+ },
+ {
+  "start": 1011.0,
+  "end": 1015.8,
+  "zh_clean": "跟 Nina 那個經驗不太一樣——我在被通知之後的那個禮拜",
+  "en": "an experience a bit different from Nina's — in the week after I got the news"
+ },
+ {
+  "start": 1015.8,
+  "end": 1019.6,
+  "zh_clean": "我其實並沒有改變我的作息、生活或習慣",
+  "en": "I actually didn't change my routine, my life, or my habits at all"
+ },
+ {
+  "start": 1019.6,
+  "end": 1025.5,
+  "zh_clean": "就是一樣起床顧小孩，送小孩上課，然後開會",
+  "en": "same thing: wake up, take care of my kid, drop the kid off, then meetings"
+ },
+ {
+  "start": 1025.5,
+  "end": 1030.9,
+  "zh_clean": "然後投工作，那時候其實有好幾個面試，就是在準備面試這樣子",
+  "en": "then apply to jobs. I had several interviews around then, so I was prepping for those"
+ },
+ {
+  "start": 1031.2,
+  "end": 1035.4,
+  "zh_clean": "然後一直到 6 月初，可能我就是心態跟",
+  "en": "Then going into early June, I think my mindset and"
+ },
+ {
+  "start": 1035.4,
+  "end": 1039.97,
+  "zh_clean": "精神上就有點 burned out 了，直到我老公把我拉著坐",
+  "en": "energy started getting a bit burned out, until my husband pulled me down to sit"
+ },
+ {
+  "start": 1039.97,
+  "end": 1045.47,
+  "zh_clean": "下來，很認真地看著我的眼睛跟我說：You need to calm down",
+  "en": "looked me right in the eyes, and said: You need to calm down"
+ },
+ {
+  "start": 1045.67,
+  "end": 1048.17,
+  "zh_clean": "take a break，對，因為他",
+  "en": "take a break. Yeah, because he"
+ },
+ {
+  "start": 1048.37,
+  "end": 1053.6,
+  "zh_clean": "發現我情緒不太好，看到我 losing myself，所以那時候有人",
+  "en": "noticed my mood wasn't great, saw me losing myself. So someone was"
+ },
+ {
+  "start": 1053.6,
+  "end": 1059.6,
+  "zh_clean": "跟我說，應該要認真思考到底自己要幹嘛，畢竟大禮包真的有 cover 到一段時間",
+  "en": "telling me I should seriously think about what I actually wanted, since the severance really did cover me for a while"
+ },
+ {
+  "start": 1059.67,
+  "end": 1064.17,
+  "zh_clean": "國際學生也知道，妳拿 H-1B 的時候，如果要換工作",
+  "en": "And as an international worker, you know — when you're on an H-1B, if you want to switch jobs"
+ },
+ {
+  "start": 1064.17,
+  "end": 1067.43,
+  "zh_clean": "是必須馬上，嗯，隔天就要繼續有工作的",
+  "en": "you basically have to have the next job lined up immediately, no gap"
+ },
+ {
+  "start": 1067.53,
+  "end": 1071.87,
+  "zh_clean": "所以我就是這樣馬不停蹄地一直工作到現在",
+  "en": "So I've just been working nonstop up until now"
+ },
+ {
+  "start": 1071.87,
+  "end": 1077.43,
+  "zh_clean": "以我從 Discover 到 Nike 的整個經歷，是沒有一天沒有工作的",
+  "en": "honestly, from Discover to Nike, there hasn't been a single day I wasn't employed"
+ },
+ {
+  "start": 1077.47,
+  "end": 1080.57,
+  "zh_clean": "所以在那個轉職過程中，我並沒有休息過",
+  "en": "so through this whole career transition I never actually rested"
+ },
+ {
+  "start": 1080.57,
+  "end": 1085.43,
+  "zh_clean": "就是一路工作到現在，對，哈哈哈",
+  "en": "just kept working straight through, hahaha"
+ },
+ {
+  "start": 1085.6,
+  "end": 1090.87,
+  "zh_clean": "對，所以啊，我常常會跟我老公說，我好累啊",
+  "en": "So I often tell my husband, I'm so tired"
+ },
+ {
+  "start": 1090.87,
+  "end": 1096.67,
+  "zh_clean": "如果可以的話，我能不能休息一段時間？但是當下我個人可能是無限堅強吧",
+  "en": "could I maybe take some time off if I could? But in the moment I guess I'm just infinitely stubborn about it"
+ },
+ {
+  "start": 1096.67,
+  "end": 1101.77,
+  "zh_clean": "活在這麼多年的社會框架下",
+  "en": "living for so many years inside a social framework"
+ },
+ {
+  "start": 1101.77,
+  "end": 1106.77,
+  "zh_clean": "一直覺得說被認為有成就，就是要有工作、有好的",
+  "en": "that says being seen as accomplished means having a job, a good"
+ },
+ {
+  "start": 1107.67,
+  "end": 1110.47,
+  "zh_clean": "title、好的 social economic status，whatever that is",
+  "en": "title, a good so-called socioeconomic status, whatever that is"
+ },
+ {
+  "start": 1110.6,
+  "end": 1115.17,
+  "zh_clean": "就覺得這件事情才是對的，所以我覺得目前",
+  "en": "it just feels like that's the correct thing. So I think right now"
+ },
+ {
+  "start": 1115.17,
+  "end": 1120.0,
+  "zh_clean": "最大的一個體會就是，到底我想要什麼，我覺得",
+  "en": "the biggest realization for me is — what do I actually want, I"
+ },
+ {
+  "start": 1120.0,
+  "end": 1124.8,
+  "zh_clean": "我可能要好好去思考一下，因為真的有點忘記",
+  "en": "probably need to sit down and really think about that, because I've honestly kind of forgotten"
+ },
+ {
+  "start": 1125.13,
+  "end": 1127.0,
+  "zh_clean": "到底自己想要什麼",
+  "en": "what I actually want"
+ },
+ {
+  "start": 1127.07,
+  "end": 1132.7,
+  "zh_clean": "跟當初來美國的初衷、工作的初衷是什麼",
+  "en": "what my original intention was coming to the US, what my original intention with work was"
+ },
+ {
+  "start": 1132.9,
+  "end": 1138.33,
+  "zh_clean": "讓我最開心的事情是什麼？妳覺得妳有忘記嗎？因為聽起來妳剛剛講到",
+  "en": "what actually makes me happiest. Do you think you've actually forgotten? Because from what you just said"
+ },
+ {
+  "start": 1138.33,
+  "end": 1144.0,
+  "zh_clean": "其實也是因為習慣了要一直努力工作，然後因為有一份好工作",
+  "en": "it sounds like it's also just become a habit — always pushing to work hard, and because you have a good job"
+ },
+ {
+  "start": 1144.0,
+  "end": 1148.0,
+  "zh_clean": "一個好 title、一個好的所謂 social economic status",
+  "en": "a good title, a good so-called socioeconomic status"
+ },
+ {
+  "start": 1148.07,
+  "end": 1152.43,
+  "zh_clean": "這些其實就是妳一直記得、覺得很重要的東西",
+  "en": "those are the things you've always remembered as important"
+ },
+ {
+  "start": 1153.7,
+  "end": 1154.77,
+  "zh_clean": "應該這樣講",
+  "en": "I guess I'd put it this way"
+ },
+ {
+  "start": 1155.2,
+  "end": 1158.27,
+  "zh_clean": "它對我很重要，是一件事情",
+  "en": "it's important to me"
+ },
+ {
+  "start": 1158.3,
+  "end": 1162.7,
+  "zh_clean": "是因為我個人很在乎別人怎麼看我",
+  "en": "because I personally care a lot about how others see me"
+ },
+ {
+  "start": 1162.7,
+  "end": 1166.7,
+  "zh_clean": "所以那個價值是我給予他人的",
+  "en": "so that value is something I'm giving to other people"
+ },
+ {
+  "start": 1166.73,
+  "end": 1171.77,
+  "zh_clean": "嗯，當然也是我給予自己的自我成就感吧",
+  "en": "and of course also giving myself a sense of accomplishment"
+ },
+ {
+  "start": 1172.0,
+  "end": 1178.0,
+  "zh_clean": "但如果妳真的問我我想要幹嘛，我就會覺得，我好像並沒有為我自己",
+  "en": "but if you really ask me what I want, I feel like I haven't really lived"
+ },
+ {
+  "start": 1178.0,
+  "end": 1181.97,
+  "zh_clean": "活出我想要的那種感覺，我覺得我會有這種想法",
+  "en": "the life I wanted for myself. I started thinking this way"
+ },
+ {
+  "start": 1181.97,
+  "end": 1187.47,
+  "zh_clean": "是因為有一天我看了一個 reel，講的是兩個 traveler 遇到彼此",
+  "en": "because one day I watched a reel about two travelers meeting each other"
+ },
+ {
+  "start": 1187.47,
+  "end": 1193.37,
+  "zh_clean": "然後其中一個人就說：不要提及妳的 background 或妳的",
+  "en": "and one of them says: don't mention your background or your"
+ },
+ {
+  "start": 1193.57,
+  "end": 1195.43,
+  "zh_clean": "work，介紹妳自己",
+  "en": "job, introduce yourself"
+ },
+ {
+  "start": 1195.57,
+  "end": 1198.1,
+  "zh_clean": "tell me how much I can learn from you",
+  "en": "tell me how much I can learn from you"
+ },
+ {
+  "start": 1198.1,
+  "end": 1203.8,
+  "zh_clean": "我當下就想套在自己身上，結果我當下是一片空白，沒辦法有架",
+  "en": "I tried applying that to myself in the moment, and I just went completely blank, couldn't give a"
+ },
+ {
+  "start": 1203.8,
+  "end": 1208.57,
+  "zh_clean": "構性地介紹自己，講出一件除了工作之外可以拿出來讓我很驕傲的事情",
+  "en": "structured introduction of myself, couldn't come up with one thing outside of work that I was proud of"
+ },
+ {
+  "start": 1208.77,
+  "end": 1212.67,
+  "zh_clean": "哈哈哈，那時候還蠻沮喪的",
+  "en": "hahaha, that was pretty depressing at the time"
+ },
+ {
+  "start": 1212.67,
+  "end": 1217.6,
+  "zh_clean": "直到現在我還是在思考這件事情，然後現在剛好又遇到裁員",
+  "en": "and I'm honestly still thinking about it now, and now on top of it I've just been laid off"
+ },
+ {
+  "start": 1217.87,
+  "end": 1220.07,
+  "zh_clean": "嗯，所以把 title 跟 word",
+  "en": "So once you strip away the title and the"
+ },
+ {
+  "start": 1220.7,
+  "end": 1224.33,
+  "zh_clean": "拿掉之後呢，我現在就是回到我最初的那個問題",
+  "en": "words, I'm right back to that original question"
+ },
+ {
+  "start": 1224.33,
+  "end": 1229.37,
+  "zh_clean": "其實我之前也一直在用 AI 自我對談",
+  "en": "Actually I've been talking to AI a lot to work through this myself"
+ },
+ {
+  "start": 1229.5,
+  "end": 1234.7,
+  "zh_clean": "除了我的心理醫生之外，我還會跟 AI 聊，它也跟我提到",
+  "en": "besides my therapist, I also talk to AI about it, and it told me"
+ },
+ {
+  "start": 1234.7,
+  "end": 1237.73,
+  "zh_clean": "可能就像妳說的，我可能要 work on myself",
+  "en": "kind of like what you said, that I probably need to work on myself"
+ },
+ {
+  "start": 1237.73,
+  "end": 1243.7,
+  "zh_clean": "就是怎麼去接受自己，哈哈哈，嗯嗯，back to square one",
+  "en": "which is how to accept myself, hahaha, back to square one"
+ },
+ {
+  "start": 1243.7,
+  "end": 1249.23,
+  "zh_clean": "但是如果大家有興趣的話，我們下一集可以討論一下，哈哈哈哈",
+  "en": "But if people are interested, we could do a whole episode next time, hahaha"
+ },
+ {
+  "start": 1249.53,
+  "end": 1255.5,
+  "zh_clean": "自我的心路歷程啊，哈哈哈，自我心路歷程跟認同工作帶給自己的認同",
+  "en": "on the inner journey of self-acceptance, hahaha, and how identity gets tied up with work"
+ },
+ {
+  "start": 1255.5,
+  "end": 1258.37,
+  "zh_clean": "冒牌者症候群，其實很多東西可以聊",
+  "en": "impostor syndrome — there's a lot to talk about there"
+ },
+ {
+  "start": 1258.6,
+  "end": 1264.57,
+  "zh_clean": "對對，尤其是啊亞洲女性可以這樣講，嗯，那我不想要 generalization，不過我",
+  "en": "Right, right, especially for Asian women — I don't want to generalize, but I"
+ },
+ {
+  "start": 1264.57,
+  "end": 1269.13,
+  "zh_clean": "其實很常看到女性，或是亞洲女性",
+  "en": "do often see that women, or Asian women"
+ },
+ {
+  "start": 1269.13,
+  "end": 1274.0,
+  "zh_clean": "或是來國外工作的台灣人，嗯",
+  "en": "or Taiwanese people working abroad"
+ },
+ {
+  "start": 1274.0,
+  "end": 1279.37,
+  "zh_clean": "通常都會有一個習性，就是我們比較不懂得去 sell ourselves",
+  "en": "tend to share this trait — we're just not that good at selling ourselves"
+ },
+ {
+  "start": 1279.4,
+  "end": 1284.27,
+  "zh_clean": "我剛到 Nike 工作的時候，這是一個非常非常大的 culture shock",
+  "en": "When I first started at Nike, that was a huge culture shock"
+ },
+ {
+  "start": 1284.6,
+  "end": 1289.13,
+  "zh_clean": "因為在 Nike 的 workplace，大家都非常 outspoken",
+  "en": "because in the Nike workplace, everyone is very outspoken"
+ },
+ {
+  "start": 1289.13,
+  "end": 1293.7,
+  "zh_clean": "非常知道怎麼表達自己，讓別人看到你，對",
+  "en": "very good at expressing themselves, making sure people see them, right"
+ },
+ {
+  "start": 1293.7,
+  "end": 1298.27,
+  "zh_clean": "然後我還記得我當初的第一個主管也說，妳其實不用做太多",
+  "en": "I still remember my first manager there telling me, you don't actually need to do that much"
+ },
+ {
+  "start": 1298.27,
+  "end": 1299.87,
+  "zh_clean": "妳要有一個 signature project",
+  "en": "you need one signature project"
+ },
+ {
+  "start": 1299.87,
+  "end": 1302.4,
+  "zh_clean": "然後持續去 selling your signature project",
+  "en": "and then keep selling that signature project"
+ },
+ {
+  "start": 1302.4,
+  "end": 1307.87,
+  "zh_clean": "to let people know 妳到底會什麼，這是非常重要的",
+  "en": "to let people know what you're actually capable of, that's really important"
+ },
+ {
+  "start": 1307.87,
+  "end": 1311.3,
+  "zh_clean": "所以我覺得在過去 7 年半在 Nike",
+  "en": "So I'd say what I learned over those 7.5 years at Nike"
+ },
+ {
+  "start": 1311.3,
+  "end": 1316.93,
+  "zh_clean": "學到的就是怎麼去 sell myself，我覺得我們可以用另外一個時間",
+  "en": "was really how to sell myself. We could set aside another time"
+ },
+ {
+  "start": 1316.93,
+  "end": 1321.3,
+  "zh_clean": "跟大家討論一下，當妳有這個習性",
+  "en": "to talk more about this — when you have this tendency"
+ },
+ {
+  "start": 1321.3,
+  "end": 1326.3,
+  "zh_clean": "要怎麼先去 energize，然後怎麼走出 impostor",
+  "en": "how do you first energize yourself, and how do you work your way out of impostor"
+ },
+ {
+  "start": 1326.5,
+  "end": 1329.07,
+  "zh_clean": "syndrome 的那個過程，我們可以再看",
+  "en": "syndrome — we could cover"
+ },
+ {
+  "start": 1330.13,
+  "end": 1335.57,
+  "zh_clean": "一下，這個可以講很多，對啊，我扣掉也看到很多，我自己的積壓過程其實也有一些",
+  "en": "a lot there. Yeah, I've seen a lot of this myself too, I have some of my own"
+ },
+ {
+  "start": 1335.57,
+  "end": 1339.5,
+  "zh_clean": "自我的心路歷程可以分享，對啊，但我們可以另外錄一集",
+  "en": "inner journey around this I could share. Yeah, but let's save that for another episode"
+ },
+ {
+  "start": 1340.07,
+  "end": 1344.4,
+  "zh_clean": "那妳——妳花了大概多少時間，然後 build 一個 brand",
+  "en": "So — how much time did it actually take you, to build a brand"
+ },
+ {
+  "start": 1344.4,
+  "end": 1347.67,
+  "zh_clean": "因為妳剛才說妳已經花了大概",
+  "en": "because you said you'd already spent about"
+ },
+ {
+  "start": 1348.33,
+  "end": 1354.03,
+  "zh_clean": "三四個月去做一些 pre-work，然後後來才 launch，對",
+  "en": "three or four months on pre-work, before you actually launched, right"
+ },
+ {
+  "start": 1354.07,
+  "end": 1360.07,
+  "zh_clean": "大概花三四個月 pre-work，然後大概有半年的時間去受訓，實際受訓做教練",
+  "en": "About three to four months on pre-work, and then about six months of actually going through coach training"
+ },
+ {
+  "start": 1360.17,
+  "end": 1364.93,
+  "zh_clean": "然後那半年——包括那時候也剛好碰到裁員——所以這半年就是有",
+  "en": "And during that six months — which happened to overlap with the layoff — that's when I did"
+ },
+ {
+  "start": 1364.93,
+  "end": 1369.7,
+  "zh_clean": "受訓、考證照，然後開始實際立案去開公司",
+  "en": "the training, got certified, and then actually filed to start the company"
+ },
+ {
+  "start": 1369.87,
+  "end": 1374.27,
+  "zh_clean": "所以那個就是在大概是 2023 年中，6 月的時候，就是現在",
+  "en": "So that was around mid-2023, June, and actually — right now"
+ },
+ {
+  "start": 1374.27,
+  "end": 1378.1,
+  "zh_clean": "其實剛過了公司的三週年慶",
+  "en": "we just passed the company's three-year anniversary"
+ },
+ {
+  "start": 1378.5,
+  "end": 1379.3,
+  "zh_clean": "啊",
+  "en": "aw"
+ },
+ {
+  "start": 1379.77,
+  "end": 1384.57,
+  "zh_clean": "哈哈哈，謝謝謝謝，對啊，所以大概花的時間是這樣子",
+  "en": "hahaha, thank you, thank you. Yeah, so that's roughly the timeline"
+ },
+ {
+  "start": 1384.57,
+  "end": 1390.0,
+  "zh_clean": "但我覺得在自己做 solopreneur 的過程中，其實會一直有很多的",
+  "en": "But I think in the process of being a solopreneur, you're constantly getting a lot of"
+ },
+ {
+  "start": 1390.07,
+  "end": 1394.4,
+  "zh_clean": "時間跟機會做 reflection，甚至做調整，像我雖然是做 coaching",
+  "en": "time and opportunities to reflect, and even to adjust — even though what I do is coaching"
+ },
+ {
+  "start": 1394.4,
+  "end": 1398.87,
+  "zh_clean": "但這個過程中其實也有一些機會，包括之前碰到的人脈",
+  "en": "along the way there have been opportunities, including connections I'd made before"
+ },
+ {
+  "start": 1398.87,
+  "end": 1404.73,
+  "zh_clean": "coaching 過程中碰到的人脈或機會，其實也做了很多新的事情，包括比較分析的顧問",
+  "en": "people and opportunities that came through coaching itself, and I ended up doing a lot of new things — comparative analysis consulting"
+ },
+ {
+  "start": 1404.73,
+  "end": 1409.27,
+  "zh_clean": "然後也有做 sponsor post，也辦了非常多活動",
+  "en": "sponsored posts, and I've run a lot of events"
+ },
+ {
+  "start": 1409.27,
+  "end": 1414.73,
+  "zh_clean": "線上線下都有，所以其實在這過程中一直會有一些小調整",
+  "en": "both online and in person. So throughout this whole process there have always been small adjustments"
+ },
+ {
+  "start": 1414.73,
+  "end": 1417.53,
+  "zh_clean": "不管是說 pivot on the content topic",
+  "en": "whether that's pivoting on the content topic"
+ },
+ {
+  "start": 1417.53,
+  "end": 1419.5,
+  "zh_clean": "我在講的是 pivot on",
+  "en": "what I mean is pivoting on"
+ },
+ {
+  "start": 1419.7,
+  "end": 1425.0,
+  "zh_clean": "嗯，什麼樣的 coaching client，就是什麼樣的人是我更想要服務的",
+  "en": "what kind of coaching client, like which kind of person I actually want to serve"
+ },
+ {
+  "start": 1425.0,
+  "end": 1429.3,
+  "zh_clean": "或是幫助的，其實一直都在小小地調整，但我覺得很關鍵的幾件事情：第一個",
+  "en": "or help — it's always been small ongoing adjustments. But I think a few things are really key: first"
+ },
+ {
+  "start": 1429.3,
+  "end": 1433.93,
+  "zh_clean": "要先停下來，給自己一些時間做反思跟復盤",
+  "en": "you have to actually stop and give yourself time to reflect and review"
+ },
+ {
+  "start": 1433.93,
+  "end": 1438.5,
+  "zh_clean": "然後去看看，OK，之前做了哪些東西做得好、做得不好",
+  "en": "look back and go, okay, what did I do well, what didn't work"
+ },
+ {
+  "start": 1438.5,
+  "end": 1443.6,
+  "zh_clean": "或哪些東西給自己帶來很多成就感、覺得很開心的",
+  "en": "or what gave me a lot of fulfillment, made me happy"
+ },
+ {
+  "start": 1443.6,
+  "end": 1447.37,
+  "zh_clean": "做得很投入、很有精力、很充電的",
+  "en": "made me feel really engaged, energized, recharged"
+ },
+ {
+  "start": 1447.4,
+  "end": 1452.7,
+  "zh_clean": "然後再從那邊去挖掘，或找出一些蛛絲馬跡",
+  "en": "and then dig from there, look for clues"
+ },
+ {
+  "start": 1452.7,
+  "end": 1456.23,
+  "zh_clean": "是不是有什麼新的東西可以去玩、去展開",
+  "en": "about whether there's something new worth exploring, worth expanding on"
+ },
+ {
+  "start": 1456.53,
+  "end": 1461.0,
+  "zh_clean": "所以其實是先給自己時間復盤，然後第二個就是說",
+  "en": "So first, give yourself time to review. Second"
+ },
+ {
+  "start": 1461.0,
+  "end": 1466.53,
+  "zh_clean": "復盤之後，用自己的規劃能力，再策劃出接下來",
+  "en": "after that review, use your own planning ability to map out what to do next"
+ },
+ {
+  "start": 1466.53,
+  "end": 1471.8,
+  "zh_clean": "如果要往這邊測試的話，不管是 MVP，或是真的有這個新的 project",
+  "en": "whether that's an MVP or an actual new project"
+ },
+ {
+  "start": 1472.0,
+  "end": 1472.97,
+  "zh_clean": "可以怎麼做",
+  "en": "how to actually go about it"
+ },
+ {
+  "start": 1473.5,
+  "end": 1478.97,
+  "zh_clean": "對，但我覺得允許自己有時間停下來去思考、復盤",
+  "en": "Right, but I think allowing myself the time to stop, to think, to review"
+ },
+ {
+  "start": 1478.97,
+  "end": 1484.97,
+  "zh_clean": "甚至休息，對我來說都很關鍵，當我聽到妳提到，妳覺得妳應",
+  "en": "even to rest — that's been really key for me. When I heard you say you feel like you"
+ },
+ {
+  "start": 1484.97,
+  "end": 1487.0,
+  "zh_clean": "該要想想自己要",
+  "en": "should be thinking about what you want"
+ },
+ {
+  "start": 1487.57,
+  "end": 1490.97,
+  "zh_clean": "是什麼讓妳覺得妳自己「應該要」",
+  "en": "what's making you feel like you \"should\""
+ },
+ {
+  "start": 1491.33,
+  "end": 1495.67,
+  "zh_clean": "是因為發現身邊的人，或自己發現自己好像太累了嗎？就連工作都累了",
+  "en": "I think it's from noticing, in myself or around me, that I'm just — tired? Even work has become tiring"
+ },
+ {
+  "start": 1495.67,
+  "end": 1499.77,
+  "zh_clean": "然後現在連想要做下一步都累了，應該說",
+  "en": "and now even thinking about the next step feels tiring. I guess it's"
+ },
+ {
+  "start": 1500.77,
+  "end": 1505.3,
+  "zh_clean": "因為現在有小孩了，就非常務實",
+  "en": "because I have a kid now, it becomes very practical"
+ },
+ {
+  "start": 1505.3,
+  "end": 1508.2,
+  "zh_clean": "用比較現實的角度來看這件事情的話",
+  "en": "a much more realistic lens on this whole thing"
+ },
+ {
+  "start": 1508.6,
+  "end": 1514.3,
+  "zh_clean": "雖然目前的存款跟大禮包其實都可以維持一段時間",
+  "en": "Even though my current savings and the severance can technically cover us for a while"
+ },
+ {
+  "start": 1514.7,
+  "end": 1519.87,
+  "zh_clean": "但以現實的角度來看，就必須找收入去支持這個家",
+  "en": "from a practical standpoint I still need to find income to support the family"
+ },
+ {
+  "start": 1519.87,
+  "end": 1523.17,
+  "zh_clean": "我覺得，我覺得絕大部分是這個原因",
+  "en": "I think that's most of the reason"
+ },
+ {
+  "start": 1523.73,
+  "end": 1527.3,
+  "zh_clean": "然後第二個原因是，我真的認真覺得",
+  "en": "The second reason is, I honestly, genuinely feel like"
+ },
+ {
+  "start": 1527.3,
+  "end": 1529.9,
+  "zh_clean": "我還沒有給自己時間去思考",
+  "en": "I haven't given myself the time to think"
+ },
+ {
+  "start": 1531.3,
+  "end": 1534.57,
+  "zh_clean": "如果一定要有收入的話",
+  "en": "whether, assuming I do need income"
+ },
+ {
+  "start": 1534.57,
+  "end": 1537.9,
+  "zh_clean": "是不是有其他收入來源可以嘗試",
+  "en": "there are other income sources worth trying"
+ },
+ {
+  "start": 1538.17,
+  "end": 1542.4,
+  "zh_clean": "嗯，然後我覺得我現在就是，這是我目前的課題",
+  "en": "I think that's the real question I'm sitting with right now"
+ },
+ {
+  "start": 1542.4,
+  "end": 1546.37,
+  "zh_clean": "就是去了解到底有什麼方式可以達到",
+  "en": "figuring out what ways there actually are to reach"
+ },
+ {
+  "start": 1546.37,
+  "end": 1550.87,
+  "zh_clean": "然後並不一定要靠一份正職工作才行",
+  "en": "financial income without it necessarily having to come from a full-time job"
+ },
+ {
+  "start": 1550.97,
+  "end": 1555.1,
+  "zh_clean": "財務的收入，嗯，我覺得就是我目前在思考的",
+  "en": "that's what I'm working through right now"
+ },
+ {
+  "start": 1555.27,
+  "end": 1557.03,
+  "zh_clean": "嗯對，所以我覺得應該",
+  "en": "Yeah, so I think"
+ },
+ {
+  "start": 1557.47,
+  "end": 1562.07,
+  "zh_clean": "我們剛才說，應該其實一部分是來自於小孩的壓力",
+  "en": "like we just said, part of it comes from the pressure of having a kid"
+ },
+ {
+  "start": 1562.07,
+  "end": 1564.83,
+  "zh_clean": "當然不是說我們必須",
+  "en": "not that it has to be this way"
+ },
+ {
+  "start": 1565.0,
+  "end": 1567.97,
+  "zh_clean": "嗯，但就是 double income is better than one income",
+  "en": "but, well, double income is better than one income"
+ },
+ {
+  "start": 1568.17,
+  "end": 1571.77,
+  "zh_clean": "嗯，OK，那來談談有小孩跟沒小孩另外一種搭配",
+  "en": "okay, so let's talk about the with-kid vs. without-kid version of this"
+ },
+ {
+  "start": 1571.77,
+  "end": 1576.5,
+  "zh_clean": "對，我個人是還不想要放棄",
+  "en": "Right, personally I'm not ready to give that up yet"
+ },
+ {
+  "start": 1576.5,
+  "end": 1581.6,
+  "zh_clean": "我之前為自己的規劃就是希望在 50 歲之前可以退休，當然越早越好",
+  "en": "my own plan for myself was to be able to retire before 50, and earlier if possible"
+ },
+ {
+  "start": 1581.87,
+  "end": 1587.6,
+  "zh_clean": "然後我們之前在有小孩之前的規劃，是大概 45、40、50 就可以退休",
+  "en": "Before we had our son, our plan was something like retiring around 45, or 40 to 50"
+ },
+ {
+  "start": 1587.7,
+  "end": 1593.47,
+  "zh_clean": "但因為有小孩，就要推遲一點，所以如果我不想推遲，就必須繼續工作",
+  "en": "but now that we have a kid, that gets pushed back a bit — so if I don't want to push it back, I have to keep working"
+ },
+ {
+  "start": 1593.7,
+  "end": 1597.5,
+  "zh_clean": "對，第二個就是——我現在的思考方向",
+  "en": "Right, and the second thing is — the direction I'm thinking in now is"
+ },
+ {
+  "start": 1598.5,
+  "end": 1603.7,
+  "zh_clean": "帶給所有人一個很大的優勢，就是很多妳不太懂的事情",
+  "en": "AI gives everyone a huge advantage — for a lot of things you don't really understand"
+ },
+ {
+  "start": 1603.7,
+  "end": 1607.73,
+  "zh_clean": "妳可以透過 AI 去不斷提問",
+  "en": "you can just keep asking AI questions"
+ },
+ {
+  "start": 1607.73,
+  "end": 1613.57,
+  "zh_clean": "找方法，或找出路，然後妳可以慢慢知道自己要做什麼、可以做什麼",
+  "en": "find methods, find a way through, and gradually figure out what you want to do, what you can do"
+ },
+ {
+  "start": 1613.57,
+  "end": 1616.97,
+  "zh_clean": "或是有什麼其他方法可以做這件事情",
+  "en": "or what other ways there might be to do it"
+ },
+ {
+  "start": 1617.33,
+  "end": 1623.0,
+  "zh_clean": "我覺得這一部分，對我目前非常混亂的思考過程來說",
+  "en": "I think that piece has given me, in the middle of what's otherwise a pretty chaotic thinking process right now"
+ },
+ {
+  "start": 1623.0,
+  "end": 1628.8,
+  "zh_clean": "給了我一個很好的框架，所以我覺得接下來可能也可以開另外一個",
+  "en": "a really solid framework. So I think going forward I might open up something else"
+ },
+ {
+  "start": 1628.8,
+  "end": 1634.8,
+  "zh_clean": "好比跟大家分享——因為我目前有一個非常非常想做的概念",
+  "en": "to share with everyone — because right now there's something I really, really want to do"
+ },
+ {
+  "start": 1634.8,
+  "end": 1638.17,
+  "zh_clean": "是想用 AI 去做一些 passive income",
+  "en": "which is using AI to build some passive income"
+ },
+ {
+  "start": 1638.93,
+  "end": 1642.77,
+  "zh_clean": "嗯，然後當然就是目前很多的 Instagrammer",
+  "en": "Of course a lot of Instagrammers"
+ },
+ {
+  "start": 1642.77,
+  "end": 1647.6,
+  "zh_clean": "或 TikToker 都有在講這件事，但很少看到有人真正",
+  "en": "or TikTokers are already talking about this, but you rarely see anyone actually"
+ },
+ {
+  "start": 1647.8,
+  "end": 1651.43,
+  "zh_clean": "把每一個 passive income 來源講清楚——大家有時候會說，哇，多好多好",
+  "en": "break down each passive income source in real detail — people will say, oh, so great, so great"
+ },
+ {
+  "start": 1651.7,
+  "end": 1656.33,
+  "zh_clean": "faceless YouTube 會帶給妳多少什麼東西",
+  "en": "look how much faceless YouTube can bring you"
+ },
+ {
+  "start": 1656.33,
+  "end": 1661.37,
+  "zh_clean": "但很少人講到底要花多少時間跟精力才能做到這件事情",
+  "en": "but very few people talk about how much time and effort it actually takes to get there"
+ },
+ {
+  "start": 1661.73,
+  "end": 1665.17,
+  "zh_clean": "所以我想從我這次的契機出發",
+  "en": "So I want to use this whole situation as a starting point"
+ },
+ {
+  "start": 1665.53,
+  "end": 1670.97,
+  "zh_clean": "真正讓大家知道——如果妳要做這件事情",
+  "en": "to actually show people — if you want to do this"
+ },
+ {
+  "start": 1670.97,
+  "end": 1675.73,
+  "zh_clean": "你需要做什麼；如果要做到真的最後可以有收入的話",
+  "en": "what do you actually need to do; if you want to get to the point where it's really generating income"
+ },
+ {
+  "start": 1675.73,
+  "end": 1679.9,
+  "zh_clean": "你要花大概多少時間，付出多少心力",
+  "en": "how much time do you need to put in, how much effort does it actually take"
+ },
+ {
+  "start": 1680.07,
+  "end": 1685.77,
+  "zh_clean": "我覺得那個我目前很想做，然後嗯嗯，我已經有幾個 experiment 開始了",
+  "en": "I think that's something I really want to do right now, and I already have a few experiments running"
+ },
+ {
+  "start": 1685.77,
+  "end": 1689.93,
+  "zh_clean": "所以我現在就是已經有一個大概框架，所以想說這個是還蠻喜歡",
+  "en": "so I've got a rough framework going already, and I'm really into it"
+ },
+ {
+  "start": 1689.93,
+  "end": 1694.87,
+  "zh_clean": "嗯，可能也剛好我夠宅啊，哈哈哈，夠宅的情況下，而且我又很喜歡",
+  "en": "maybe it's partly because I'm just a big enough homebody, hahaha, and I really like"
+ },
+ {
+  "start": 1694.93,
+  "end": 1698.0,
+  "zh_clean": "那種 tech 跟數據的東西，所以嗯嗯",
+  "en": "that tech and data kind of stuff. So"
+ },
+ {
+  "start": 1698.0,
+  "end": 1703.67,
+  "zh_clean": "就想要把我目前學到的所有 AI，跟 onboard 到 AI 的那個過程",
+  "en": "I want to share everything I've learned about AI, and the whole process of getting up to speed on it"
+ },
+ {
+  "start": 1703.67,
+  "end": 1709.4,
+  "zh_clean": "跟大家分享，哇好多東西，所以聽起來其實妳已經驗證了這些",
+  "en": "with everyone. Wow, that's a lot. So it sounds like you've already validated these"
+ },
+ {
+  "start": 1709.4,
+  "end": 1714.0,
+  "zh_clean": "MVP 之後，然後現在其實已經更清楚一個點子是說",
+  "en": "MVPs, and now you've got a clearer idea that"
+ },
+ {
+  "start": 1714.0,
+  "end": 1719.53,
+  "zh_clean": "可以把妳做過的這些 experimentation 包裝成一個東西，然後分享",
+  "en": "you could package up all this experimentation into something and share it"
+ },
+ {
+  "start": 1719.53,
+  "end": 1723.87,
+  "zh_clean": "或者開始 monetize，是已經驗證到這個階段了嗎",
+  "en": "or start monetizing it — have you validated it to that stage yet"
+ },
+ {
+  "start": 1724.07,
+  "end": 1726.2,
+  "zh_clean": "後面還沒有，就是啊",
+  "en": "not the back end yet, it's more"
+ },
+ {
+  "start": 1727.1,
+  "end": 1731.07,
+  "zh_clean": "中間吧，就從做過 marketing strategy 的方式來看呢",
+  "en": "in the middle, I'd say. From what I know of marketing strategy"
+ },
+ {
+  "start": 1731.07,
+  "end": 1734.77,
+  "zh_clean": "就是要流量，然後妳就是要非常非常專注在",
+  "en": "it's about traffic — you have to be really, really focused on"
+ },
+ {
+  "start": 1735.7,
+  "end": 1739.37,
+  "zh_clean": "the platform having the consistent content",
+  "en": "the platform having the consistent content"
+ },
+ {
+  "start": 1739.6,
+  "end": 1742.23,
+  "zh_clean": "full steam every day to drive the traffic",
+  "en": "full steam every day to drive the traffic"
+ },
+ {
+  "start": 1742.53,
+  "end": 1746.2,
+  "zh_clean": "然後它才會慢慢做起來，嗯，所以我覺得",
+  "en": "and only then does it slowly start to work. So I think"
+ },
+ {
+  "start": 1747.27,
+  "end": 1750.2,
+  "zh_clean": "一部分是我看到所有的 influencer 或",
+  "en": "partly from watching every influencer or"
+ },
+ {
+  "start": 1750.2,
+  "end": 1753.67,
+  "zh_clean": "任何 content creator，我覺得最重要最重要",
+  "en": "any content creator out there, the single most important thing"
+ },
+ {
+  "start": 1753.67,
+  "end": 1757.67,
+  "zh_clean": "最重要的第一個想法就是：不要為了錢而去做 content",
+  "en": "first and foremost, is: don't build content for the money"
+ },
+ {
+  "start": 1757.97,
+  "end": 1763.9,
+  "zh_clean": "嗯，去為了一個 passion 做 content 會比較能夠做得長久，嗯，因為",
+  "en": "build content out of genuine passion, and it'll last a lot longer, because"
+ },
+ {
+  "start": 1765.53,
+  "end": 1769.1,
+  "zh_clean": "除非妳運氣好到做出一個",
+  "en": "unless you get lucky enough to land one"
+ },
+ {
+  "start": 1769.47,
+  "end": 1773.9,
+  "zh_clean": "viral video、one-hit content，嗯，一夜成名",
+  "en": "viral video, one hit piece of content, overnight fame"
+ },
+ {
+  "start": 1774.47,
+  "end": 1779.67,
+  "zh_clean": "但是我覺得那個就像中樂透，那種機率不是不可能",
+  "en": "but I think that's basically like winning the lottery, not impossible"
+ },
+ {
+  "start": 1780.0,
+  "end": 1784.53,
+  "zh_clean": "但是機率就比較小，嗯，妳要很持續跟很穩定地走",
+  "en": "but the odds are pretty low. You have to walk it consistently and steadily"
+ },
+ {
+  "start": 1784.53,
+  "end": 1788.3,
+  "zh_clean": "慢慢做起來，才可以真正的，對",
+  "en": "build it up slowly, to actually get there, right"
+ },
+ {
+  "start": 1789.17,
+  "end": 1791.8,
+  "zh_clean": "走到最後那個階段，嗯",
+  "en": "to that final stage"
+ },
+ {
+  "start": 1791.8,
+  "end": 1796.8,
+  "zh_clean": "然後我覺得，可能有那麼一段時間，妳要有",
+  "en": "And I think there's probably a stretch where you need"
+ },
+ {
+  "start": 1797.77,
+  "end": 1803.7,
+  "zh_clean": "那種勇氣去做那段過渡期——就是至少半年到一年",
+  "en": "the courage to get through that transition period — at least six months to a year"
+ },
+ {
+  "start": 1803.7,
+  "end": 1807.77,
+  "zh_clean": "妳可能完全沒收入，然後直到慢慢有人發現妳",
+  "en": "you might have zero income, until people gradually start discovering you"
+ },
+ {
+  "start": 1808.17,
+  "end": 1812.8,
+  "zh_clean": "所以這也是我那時候在思考的：我到底可以真的用 passive income",
+  "en": "So that's also what I was thinking about — can I actually use passive income"
+ },
+ {
+  "start": 1812.8,
+  "end": 1814.9,
+  "zh_clean": "去取代我的 corporate job",
+  "en": "to replace my corporate job"
+ },
+ {
+  "start": 1815.13,
+  "end": 1819.87,
+  "zh_clean": "還是我還是可以繼續慢慢找工作",
+  "en": "or should I keep slowly job-searching"
+ },
+ {
+  "start": 1819.87,
+  "end": 1824.97,
+  "zh_clean": "嗯嗯，找到我自己最喜歡的，然後再做副業，反正我現在有很多時間",
+  "en": "find something I actually love, and build the side project alongside it — since I have a lot of time right now anyway"
+ },
+ {
+  "start": 1824.97,
+  "end": 1830.13,
+  "zh_clean": "我就用這段時間去 set up，所以之後有工作的話",
+  "en": "I might as well use this time to set it up, so that once I do have a job again"
+ },
+ {
+  "start": 1830.13,
+  "end": 1835.37,
+  "zh_clean": "再做起來就比較簡單，嗯對，了解，對，所以現在聽起來策略是，並沒有二選一",
+  "en": "it'll be easier to keep it going. Right, I get it, so it sounds like the strategy isn't really either/or"
+ },
+ {
+  "start": 1835.37,
+  "end": 1836.77,
+  "zh_clean": "就是兩個一起做",
+  "en": "it's doing both at once"
+ },
+ {
+  "start": 1837.73,
+  "end": 1842.03,
+  "zh_clean": "我覺得最實際，以我的個性跟所有的",
+  "en": "I think realistically, given my personality and looking at all"
+ },
+ {
+  "start": 1842.4,
+  "end": 1847.9,
+  "zh_clean": "數據來看，我覺得是先變成斜槓，然後再慢慢存這些",
+  "en": "the data, I think it's — go slash-career first, and slowly build savings from that"
+ },
+ {
+  "start": 1848.13,
+  "end": 1852.5,
+  "zh_clean": "看哪個好，再慢慢投入過去，對，但是我",
+  "en": "see what works, and slowly put more into it. But my"
+ },
+ {
+  "start": 1853.7,
+  "end": 1857.8,
+  "zh_clean": "對自己之後的一個期許是",
+  "en": "hope for myself going forward is"
+ },
+ {
+  "start": 1857.8,
+  "end": 1862.33,
+  "zh_clean": "我希望我不用再靠著 corporate 的方式去做",
+  "en": "that I won't have to keep doing things the corporate way"
+ },
+ {
+  "start": 1862.33,
+  "end": 1867.47,
+  "zh_clean": "因為到最後沒有了工作，到底有什麼是可以讓妳值得驕傲的",
+  "en": "because at the end of the day, once the job's gone, what's actually left that you can be proud of"
+ },
+ {
+  "start": 1867.47,
+  "end": 1870.6,
+  "zh_clean": "嗯，我覺得像 Nina，妳有自己的公司",
+  "en": "I think with you, Nina, you have your own company"
+ },
+ {
+  "start": 1870.6,
+  "end": 1874.97,
+  "zh_clean": "一個品牌 Wayfinder，也是一個 coach，我覺得那是一件很",
+  "en": "a brand — Wayfinder — you're a coach, and I think that's something really"
+ },
+ {
+  "start": 1874.97,
+  "end": 1880.57,
+  "zh_clean": "值得說出來的事——妳是為了自己去創造一個品牌",
+  "en": "worth being able to say out loud — you built a brand for yourself"
+ },
+ {
+  "start": 1880.9,
+  "end": 1883.3,
+  "zh_clean": "然後我也覺得我想要有一個",
+  "en": "And I feel like I want that too — something that"
+ },
+ {
+  "start": 1883.57,
+  "end": 1886.37,
+  "zh_clean": "something belongs to me, I'm the boss lady",
+  "en": "belongs to me, I'm the boss lady"
+ },
+ {
+  "start": 1887.37,
+  "end": 1892.07,
+  "zh_clean": "嗯對啊，那這樣真的聽起來，妳這 3 個月的確啊",
+  "en": "Yeah, it really does sound like, over these three months"
+ },
+ {
+  "start": 1892.07,
+  "end": 1896.83,
+  "zh_clean": "連這些反思題都很清楚了，就是妳現在很清楚地",
+  "en": "even these reflective questions have become clear to you — you can now clearly"
+ },
+ {
+  "start": 1896.9,
+  "end": 1900.5,
+  "zh_clean": "告訴自己、知道自己的期許——不管是遠期的",
+  "en": "tell yourself, and you know your own hopes — whether that's the long-term one"
+ },
+ {
+  "start": 1900.5,
+  "end": 1905.1,
+  "zh_clean": "希望自己在 50 歲可以退休，還是中期的，希望自己繼續有一份正職工作",
+  "en": "wanting to retire by 50, or the medium-term one, wanting to keep a full-time job"
+ },
+ {
+  "start": 1905.1,
+  "end": 1909.77,
+  "zh_clean": "同時開始去實現所願，這是妳自己在了解自己的過程",
+  "en": "while starting to work toward what you actually want. This came out of your own process of understanding yourself"
+ },
+ {
+  "start": 1909.77,
+  "end": 1915.77,
+  "zh_clean": "了解自己的過程中知道說這是最實際的一個方式，所以然後妳也知道現在",
+  "en": "knowing that this is the most realistic path for you. So now you also know"
+ },
+ {
+  "start": 1915.77,
+  "end": 1920.5,
+  "zh_clean": "其實現在有哪些 project 是自己在嘗試、想要開始",
+  "en": "which projects you're already trying out, already wanting to start"
+ },
+ {
+  "start": 1920.5,
+  "end": 1925.67,
+  "zh_clean": "去把它建立起來的，這些 side project，所以其實",
+  "en": "building up — these side projects. So"
+ },
+ {
+  "start": 1925.9,
+  "end": 1931.1,
+  "zh_clean": "很清楚啊，聽起來妳很清楚妳未來要做什麼跟現在在做什麼了",
+  "en": "it sounds like you're clear on what you want to do in the future, and what you're doing right now"
+ },
+ {
+  "start": 1932.17,
+  "end": 1933.4,
+  "zh_clean": "對吧？應該吧",
+  "en": "right? I guess so"
+ },
+ {
+  "start": 1933.93,
+  "end": 1937.7,
+  "zh_clean": "妳有沒有興趣把「應該」換成",
+  "en": "any interest in swapping \"I guess\" for"
+ },
+ {
+  "start": 1938.07,
+  "end": 1939.2,
+  "zh_clean": "或者是「對」",
+  "en": "or \"right\""
+ },
+ {
+  "start": 1939.57,
+  "end": 1944.83,
+  "zh_clean": "哈哈哈，我再講一次，我再講一次——聽起來妳很清楚妳這要做什麼",
+  "en": "hahaha, let me say it again, let me say it again — it sounds like you're clear on what you want to do"
+ },
+ {
+  "start": 1944.97,
+  "end": 1945.77,
+  "zh_clean": "對吧",
+  "en": "right?"
+ },
+ {
+  "start": 1947.4,
+  "end": 1949.83,
+  "zh_clean": "對，哈哈哈",
+  "en": "right, hahaha"
+ },
+ {
+  "start": 1951.17,
+  "end": 1955.57,
+  "zh_clean": "連這個都要猶豫，沒關係沒關係，可以理解，我覺得",
+  "en": "even hesitating on that. It's fine, it's fine, I get it. I found"
+ },
+ {
+  "start": 1955.57,
+  "end": 1960.33,
+  "zh_clean": "我這過程中發現很多另外的話題，然後這也是第一集",
+  "en": "a lot of other topics along the way here, and this is also episode one"
+ },
+ {
+  "start": 1960.33,
+  "end": 1966.1,
+  "zh_clean": "所以也請大家多多包涵，如果你有想要問我們的問題，或想了解比較細節的部分",
+  "en": "so please bear with us. If you have questions for us, or want more detail on anything"
+ },
+ {
+  "start": 1966.17,
+  "end": 1971.9,
+  "zh_clean": "像是 coach 怎麼 set up，可以留言給我們，我個人會盡量分享剛才說的一些 like coach",
+  "en": "like how to set up as a coach, feel free to leave us a comment, I'll do my best to share what I mentioned"
+ },
+ {
+  "start": 1972.27,
+  "end": 1975.03,
+  "zh_clean": "然後一些就是怎麼 set up",
+  "en": "and some of how to set it up"
+ },
+ {
+  "start": 1975.27,
+  "end": 1980.67,
+  "zh_clean": "LLC，或是怎麼變成 LLC，那個證書要去哪裡考",
+  "en": "LLC, or how to form an LLC, where to get certified"
+ },
+ {
+  "start": 1980.7,
+  "end": 1984.77,
+  "zh_clean": "或怎麼準備，我們都可以做，然後我個人呢",
+  "en": "how to prepare — we can do that. And on my end"
+ },
+ {
+  "start": 1984.77,
+  "end": 1989.7,
+  "zh_clean": "就是剛才提到的 AI 搭建跟一些 side project，我覺得我",
+  "en": "with the AI-building stuff and the side projects I mentioned earlier, I"
+ },
+ {
+  "start": 1989.93,
+  "end": 1994.17,
+  "zh_clean": "也可能會用 update 的方式跟大家說我目前做到哪裡",
+  "en": "might do updates letting you know where I've gotten to"
+ },
+ {
+  "start": 1994.17,
+  "end": 1998.93,
+  "zh_clean": "然後哪些東西是我怎麼用的，也可以跟大家分享，嗯對，我覺得這些東西",
+  "en": "and what I've figured out how to use, and share that too. Yeah, I think we"
+ },
+ {
+  "start": 1998.93,
+  "end": 2002.77,
+  "zh_clean": "我們都可以繼續做下去，然後最後也要說謝謝 Nina",
+  "en": "can keep building on all of this going forward. And lastly, thank you, Nina"
+ },
+ {
+  "start": 2002.77,
+  "end": 2007.67,
+  "zh_clean": "今天跟我一起聊聊最近的 layoff，然後也聊到了",
+  "en": "for talking through this recent layoff with me today, and for getting into"
+ },
+ {
+  "start": 2007.87,
+  "end": 2012.97,
+  "zh_clean": "一些彼此人生的卡點跟彼此怎麼走過去，甚至是現在還在卡的這個過程中",
+  "en": "some of our respective stuck points in life, and how we've each moved through them — or are still stuck in that process"
+ },
+ {
+  "start": 2012.97,
+  "end": 2018.87,
+  "zh_clean": "然後也想要送給正在聽的大家：我們都很好，要相信自己很好，覺得我們都有",
+  "en": "And I also want to send this out to everyone listening: we're all doing okay, believe that you're okay too, we all have"
+ },
+ {
+  "start": 2019.1,
+  "end": 2024.17,
+  "zh_clean": "別人沒有的東西，對我們都可以的，我們我們可以",
+  "en": "something that other people don't, we can all do this — we can do this"
+ },
+ {
+  "start": 2024.9,
+  "end": 2026.27,
+  "zh_clean": "雖然有點 the long way here",
+  "en": "even though it's kind of a long way here"
+ },
+ {
+  "start": 2026.27,
+  "end": 2028.47,
+  "zh_clean": "但是 we will get there, we will get there",
+  "en": "we will get there, we will get there"
+ },
+ {
+  "start": 2028.47,
+  "end": 2029.57,
+  "zh_clean": "哈哈哈",
+  "en": "hahaha"
+ },
+ {
+  "start": 2030.17,
+  "end": 2034.7,
+  "zh_clean": "好了，今天就謝謝大家收聽《The Long Way Here》，yeah",
+  "en": "Okay, thanks everyone for listening to The Long Way Here, yeah"
+ },
+ {
+  "start": 2035.5,
+  "end": 2039.43,
+  "zh_clean": "請多包涵，第一集，不用包涵，OK，謝謝大家",
+  "en": "please bear with us, this is episode one. No need to bear with anything, okay, thank you everyone"
+ },
+ {
+  "start": 2039.6,
+  "end": 2041.7,
+  "zh_clean": "謝謝大家，哈哈哈，OK",
+  "en": "thank you, hahaha, okay"
+ },
+ {
+  "start": 2042.77,
+  "end": 2045.77,
+  "zh_clean": "拜拜。",
+  "en": "bye bye."
+ }
+]

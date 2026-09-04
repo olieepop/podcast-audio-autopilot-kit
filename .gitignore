@@ -1,0 +1,21 @@
+.env
+__pycache__/
+*.pyc
+
+# profiles/ holds edit_style_model.py's output — derived directly from your own
+# raw transcripts (personal, unedited speech). Same rule as the upstream kit
+# this was ported from: personal data stays local, never in the repo.
+profiles/
+
+# Raw transcripts and media are large / can carry unedited personal content —
+# keep them local, check in only the generated content files.
+episodes/**/*.srt
+episodes/**/*.vtt
+episodes/**/*.txt
+episodes/**/*.mp3
+episodes/**/*.mp4
+!episodes/**/episode_*_content.md
+# Captions are the finished, translated, publication-bound article -- not raw
+# personal transcript -- so unlike the raw .srt rule above, these get committed.
+!episodes/**/*_captions.srt
+!episodes/**/*_captions.json
